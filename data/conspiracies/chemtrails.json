@@ -1,0 +1,59 @@
+{
+  "id": "chemtrails",
+  "title": "Chemtrails — Aerial Chemical Mind Control",
+  "slug": "chemtrails",
+  "status": "DEBUNKED",
+  "confidence": 5,
+  "category": ["Science", "Government"],
+  "summary": "The claim that the white trails left behind aircraft (contrails) are actually chemical or biological agents deliberately sprayed for purposes including mind control, population control, or weather manipulation. No credible evidence supports this theory.",
+  "mainstream_narrative_at_time": "Not applicable — this theory was never part of mainstream discourse. It emerged in the late 1990s in fringe communities and has been consistently rejected by atmospheric scientists, aviation experts, and government agencies.",
+  "what_happened": "Extensive scientific investigation has confirmed that contrails (condensation trails) are composed of water ice crystals formed when hot, humid exhaust from jet engines mixes with cold ambient air. Their persistence depends on atmospheric humidity and temperature at flight altitude. A 2016 study in Environmental Research Letters surveyed 77 atmospheric scientists and geochemists: 76 of 77 found no evidence of a secret large-scale atmospheric spraying program. The one dissenting scientist cited unusual barium levels in one location but did not conclude it was evidence of deliberate spraying. Chemical analysis of contrails matches expected exhaust composition. The theory persists but has no scientific basis.",
+  "first_claimed": "1996",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "1996",
+      "event": "Chemtrail theory gains traction after the US Air Force publishes 'Weather as a Force Multiplier: Owning the Weather in 2025,' a speculative future strategy paper. Conspiracy theorists cite it as proof of active spraying",
+      "type": "origin"
+    },
+    {
+      "date": "2000",
+      "event": "EPA, FAA, NASA, and NOAA publish joint fact sheet explaining contrail science and directly addressing chemtrail claims",
+      "type": "denial"
+    },
+    {
+      "date": "2001",
+      "event": "US Air Force issues statement: 'The Air Force is not conducting any weather modification experiments or programs and has no plans to do so'",
+      "type": "denial"
+    },
+    {
+      "date": "2010",
+      "event": "Peer-reviewed atmospheric science continues to confirm contrails are water vapor. Theory persists on internet forums",
+      "type": "denial"
+    },
+    {
+      "date": "2016-08",
+      "event": "Environmental Research Letters publishes expert survey: 76 of 77 atmospheric scientists find no evidence for chemtrails. Largest expert survey on the topic",
+      "type": "denial"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Shearer et al., 'Quantifying expert consensus against the existence of a secret, large-scale atmospheric spraying program,' Environmental Research Letters (2016)",
+      "url": "https://iopscience.iop.org/article/10.1088/1748-9326/11/8/084011",
+      "type": "academic"
+    },
+    {
+      "title": "EPA/FAA/NASA/NOAA: 'Aircraft Contrails Factsheet' (2000)",
+      "url": "https://www.epa.gov/sites/default/files/2016-02/documents/contrails-factsheet.pdf",
+      "type": "official"
+    },
+    {
+      "title": "Keith et al., 'A Process for Capturing CO2 from the Atmosphere,' Joule (2018) — distinguishes actual geoengineering research from conspiracy claims",
+      "url": "https://www.cell.com/joule/fulltext/S2542-4351(18)30225-3",
+      "type": "academic"
+    }
+  ],
+  "tags": ["chemtrails", "contrails", "debunked", "atmospheric science", "conspiracy theory"]
+}

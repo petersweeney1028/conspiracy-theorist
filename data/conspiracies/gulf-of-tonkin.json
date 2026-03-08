@@ -1,0 +1,100 @@
+{
+  "id": "gulf-of-tonkin",
+  "title": "Gulf of Tonkin Incident Fabrication",
+  "slug": "gulf-of-tonkin",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Military", "War"],
+  "summary": "The alleged second attack on USS Maddox in the Gulf of Tonkin on August 4, 1964 — which provided the primary justification for the Gulf of Tonkin Resolution and major US escalation in Vietnam — never actually occurred. The Johnson administration knew the evidence was dubious but used it to secure congressional authorization for war.",
+  "mainstream_narrative_at_time": "The US government presented both Tonkin incidents as unprovoked North Vietnamese aggression against American vessels in international waters. Questioning the official account was considered unpatriotic and dangerously undermining of national security during wartime. Skeptics were marginalized as anti-American.",
+  "what_happened": "Declassified NSA documents released in 2005 confirmed what historians had long suspected: the second Gulf of Tonkin attack on August 4, 1964 never happened. NSA signals intelligence was misinterpreted or deliberately misrepresented. Secretary of Defense Robert McNamara later admitted to doubts about the second attack. The resolution passed Congress with only two dissenting votes and led to a massive escalation that ultimately killed over 58,000 Americans and millions of Vietnamese.",
+  "first_claimed": "1964",
+  "confirmed_date": "2005",
+  "years_to_confirm": 41,
+  "timeline": [
+    {
+      "date": "1964-07-31",
+      "event": "South Vietnamese commandos, backed by the US, attack North Vietnamese installations in the Gulf of Tonkin",
+      "type": "origin"
+    },
+    {
+      "date": "1964-08-02",
+      "event": "USS Maddox legitimately engages North Vietnamese torpedo boats in the Gulf of Tonkin (first incident, actual)",
+      "type": "development"
+    },
+    {
+      "date": "1964-08-04",
+      "event": "USS Maddox and USS Turner Joy report a second attack. Captain John Herrick cables: 'Review of action makes many reported contacts and torpedoes fired appear doubtful'",
+      "type": "origin"
+    },
+    {
+      "date": "1964-08-04",
+      "event": "Despite doubts, President Johnson orders retaliatory airstrikes against North Vietnam",
+      "type": "coverup"
+    },
+    {
+      "date": "1964-08-07",
+      "event": "Gulf of Tonkin Resolution passes Congress 416-0 in the House and 88-2 in the Senate, authorizing military force",
+      "type": "development"
+    },
+    {
+      "date": "1968",
+      "event": "Senate Foreign Relations Committee begins investigating the incident. McNamara's testimony raises questions",
+      "type": "exposure"
+    },
+    {
+      "date": "1971",
+      "event": "Pentagon Papers revealed by Daniel Ellsberg show the administration had planned escalation before the incident",
+      "type": "exposure"
+    },
+    {
+      "date": "1995",
+      "event": "Robert McNamara meets Vietnamese General Vo Nguyen Giap, who confirms the August 4 attack never happened",
+      "type": "development"
+    },
+    {
+      "date": "2005-12",
+      "event": "NSA declassifies internal study: 'Skunks, Bogies, Silent Hounds, and the Flying Fish,' confirming the second attack did not occur",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "NSA Declassified: 'Skunks, Bogies, Silent Hounds, and the Flying Fish: The Gulf of Tonkin Mystery' (2005)",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/gulf-of-tonkin/articles/rel1_gulf_of_tonkin.pdf",
+      "type": "primary"
+    },
+    {
+      "title": "Pentagon Papers — National Archives",
+      "url": "https://www.archives.gov/research/pentagon-papers",
+      "type": "primary"
+    },
+    {
+      "title": "Edwin Moise, 'Tonkin Gulf and the Escalation of the Vietnam War' (UNC Press, 1996)",
+      "url": "https://uncpress.org/book/9780807846384/tonkin-gulf-and-the-escalation-of-the-vietnam-war/",
+      "type": "academic"
+    },
+    {
+      "title": "Senate Foreign Relations Committee Hearing on the Gulf of Tonkin (1968)",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-90shrg91-69/pdf/CHRG-90shrg91-69.pdf",
+      "type": "official"
+    }
+  ],
+  "tags": ["Vietnam War", "Gulf of Tonkin", "false pretense", "Johnson", "McNamara", "escalation"],
+  "related_media": [
+    {
+      "title": "The Fog of War: Eleven Lessons from the Life of Robert S. McNamara",
+      "url": "https://www.imdb.com/title/tt0317910/",
+      "type": "documentary",
+      "year": 2003,
+      "description": "Errol Morris's Oscar-winning documentary featuring extended interviews with Robert McNamara, who admits doubts about the Tonkin incident and reflects on the catastrophic escalation of the Vietnam War."
+    },
+    {
+      "title": "The Vietnam War (Ken Burns & Lynn Novick)",
+      "url": "https://www.imdb.com/title/tt1877514/",
+      "type": "series",
+      "year": 2017,
+      "description": "18-hour PBS documentary covering the full arc of the Vietnam War, including detailed examination of the Gulf of Tonkin deception and the Pentagon Papers revelations."
+    }
+  ]
+}

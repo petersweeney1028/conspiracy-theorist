@@ -1,0 +1,100 @@
+{
+  "id": "iran-contra",
+  "title": "Iran-Contra — Secret Arms Deals and Illegal Funding",
+  "slug": "iran-contra",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Military", "Geopolitics"],
+  "summary": "Senior officials in the Reagan administration secretly sold weapons to Iran — which was under an arms embargo — and used the proceeds to illegally fund Contra rebels in Nicaragua, in direct violation of the Boland Amendment passed by Congress. The operation was run from the White House basement.",
+  "mainstream_narrative_at_time": "The Reagan administration publicly maintained a hard line against Iran, calling it a state sponsor of terrorism, while simultaneously negotiating arms deals. The idea that the US was selling weapons to Iran while publicly condemning it was considered absurd. Claims of illegal Contra funding were dismissed as left-wing propaganda designed to undermine anti-communist foreign policy.",
+  "what_happened": "In November 1986, a Lebanese newspaper revealed the arms sales, and Attorney General Edwin Meese confirmed that proceeds were diverted to the Contras. National Security Council staff member Oliver North had coordinated the operation with NSC advisor John Poindexter's approval. The subsequent congressional investigation and independent counsel probe found that senior officials, including Defense Secretary Caspar Weinberger, had participated in the cover-up. Fourteen officials were charged; eleven were convicted, though several convictions were overturned on appeal. President George H.W. Bush pardoned six officials, including Weinberger, in December 1992.",
+  "first_claimed": "1985",
+  "confirmed_date": "1986",
+  "years_to_confirm": 1,
+  "timeline": [
+    {
+      "date": "1982-12",
+      "event": "Boland Amendment passes Congress, prohibiting the use of federal funds to support the Nicaraguan Contras",
+      "type": "origin"
+    },
+    {
+      "date": "1985-08",
+      "event": "First shipment of US weapons to Iran through Israel, allegedly in exchange for hostages held in Lebanon. Reagan signs a retroactive finding authorizing the deals",
+      "type": "origin"
+    },
+    {
+      "date": "1986-02",
+      "event": "Oliver North and Richard Secord establish 'the Enterprise' — a secret network to divert Iranian arms sale profits to the Contras",
+      "type": "coverup"
+    },
+    {
+      "date": "1986-10-05",
+      "event": "Sandinistas shoot down a CIA-linked cargo plane carrying weapons to the Contras. Survivor Eugene Hasenfus is captured and reveals CIA connections",
+      "type": "exposure"
+    },
+    {
+      "date": "1986-11-03",
+      "event": "Lebanese newspaper Al-Shiraa publishes report of US arms sales to Iran. Story is initially denied by the White House",
+      "type": "exposure"
+    },
+    {
+      "date": "1986-11-25",
+      "event": "Attorney General Meese announces that profits from Iran arms sales were diverted to the Contras. Oliver North is fired. Poindexter resigns",
+      "type": "confirmation"
+    },
+    {
+      "date": "1987-07",
+      "event": "Televised congressional hearings. Oliver North testifies in uniform, admits to shredding documents, and says he believed the president authorized the operation",
+      "type": "confirmation"
+    },
+    {
+      "date": "1992-12-24",
+      "event": "President George H.W. Bush pardons six Iran-Contra figures, including Caspar Weinberger, weeks before Weinberger's trial was set to begin",
+      "type": "coverup"
+    },
+    {
+      "date": "1993-01",
+      "event": "Independent Counsel Lawrence Walsh releases final report documenting the cover-up and concluding that Reagan and Bush had knowledge of the operation",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Report of the Congressional Committees Investigating the Iran-Contra Affair (1987)",
+      "url": "https://archive.org/details/reportofcongress87unit",
+      "type": "official"
+    },
+    {
+      "title": "Lawrence Walsh, Final Report of the Independent Counsel for Iran/Contra Matters (1993)",
+      "url": "https://irp.fas.org/offdocs/walsh/",
+      "type": "official"
+    },
+    {
+      "title": "National Security Archive: The Iran-Contra Affair 30 Years Later",
+      "url": "https://nsarchive.gwu.edu/briefing-book/iran/2016-11-25/iran-contra-affair-30-years-later",
+      "type": "primary"
+    },
+    {
+      "title": "Tower Commission Report (1987)",
+      "url": "https://archive.org/details/towercommissionr00unit",
+      "type": "official"
+    }
+  ],
+  "tags": ["Iran-Contra", "Reagan", "Oliver North", "CIA", "Contras", "Nicaragua", "arms dealing"],
+  "related_media": [
+    {
+      "title": "Blowback (Podcast) — Season 3: Korea / Iran-Contra Episodes",
+      "url": "https://blowback.show/",
+      "type": "podcast",
+      "year": 2022,
+      "description": "The Blowback podcast covers the broader context of US interventionism including the Iran-Contra affair and its connections to drug trafficking and covert operations across Central America."
+    },
+    {
+      "title": "American Made",
+      "url": "https://www.imdb.com/title/tt3532216/",
+      "type": "documentary",
+      "year": 2017,
+      "description": "Tom Cruise stars in this dramatization of Barry Seal, the pilot recruited by the CIA to run guns to the Contras and who became entangled in the Medellin cartel's drug operations — all with government knowledge."
+    }
+  ]
+}

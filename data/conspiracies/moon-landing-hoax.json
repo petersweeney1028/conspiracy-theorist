@@ -1,0 +1,69 @@
+{
+  "id": "moon-landing-hoax",
+  "title": "Moon Landing Hoax Theory",
+  "slug": "moon-landing-hoax",
+  "status": "DEBUNKED",
+  "confidence": 2,
+  "category": ["Science", "Government", "Space"],
+  "summary": "The claim that NASA faked the Apollo moon landings between 1969 and 1972, supposedly filming them in a studio on Earth. Despite overwhelming evidence including independent verification from multiple countries, retroreflectors placed on the lunar surface, and hundreds of pounds of moon rocks, the theory persists in fringe communities.",
+  "mainstream_narrative_at_time": "Not applicable — the moon landings were celebrated as a genuine achievement of human exploration, verified by scientists worldwide including those in the Soviet Union, who had every geopolitical motivation to expose a hoax. The theory gained traction in the 1970s through Bill Kaysing's self-published book but has never had scientific credibility.",
+  "what_happened": "Every major claim of the hoax theory has been thoroughly debunked. Retroreflectors placed on the moon by Apollo 11, 14, and 15 are independently used by observatories worldwide for laser ranging experiments. 842 pounds of lunar samples have been studied by scientists in dozens of countries and confirmed as distinct from any Earth rock. Lunar Reconnaissance Orbiter images from 2009 show Apollo landing sites, equipment, and even astronaut tracks on the surface. The Soviet Union — which tracked the missions with their own equipment — never disputed the landings. An estimated 400,000 people worked on the Apollo program, making a conspiracy of this scale logistically impossible.",
+  "first_claimed": "1976",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "1969-07-20",
+      "event": "Apollo 11 lands on the Moon. Neil Armstrong and Buzz Aldrin walk on the surface while the world watches on live television",
+      "type": "origin"
+    },
+    {
+      "date": "1976",
+      "event": "Bill Kaysing self-publishes 'We Never Went to the Moon: America's Thirty Billion Dollar Swindle,' launching the hoax theory",
+      "type": "development"
+    },
+    {
+      "date": "2001",
+      "event": "Fox TV airs 'Conspiracy Theory: Did We Land on the Moon?' — gives the theory its widest audience. NASA initially declines to respond",
+      "type": "development"
+    },
+    {
+      "date": "2002-09-09",
+      "event": "Buzz Aldrin punches hoax proponent Bart Sibrel in the face after being confronted and called 'a coward, a liar, and a thief'",
+      "type": "development"
+    },
+    {
+      "date": "2009",
+      "event": "NASA Lunar Reconnaissance Orbiter photographs Apollo landing sites from orbit, showing equipment, descent stages, and astronaut footpaths",
+      "type": "denial"
+    },
+    {
+      "date": "2012",
+      "event": "Third-party analysis: India's Chandrayaan-1, Japan's SELENE, and China's Chang'e missions independently confirm Apollo landing evidence",
+      "type": "denial"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "NASA Lunar Reconnaissance Orbiter — Apollo Landing Site Images",
+      "url": "https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html",
+      "type": "official"
+    },
+    {
+      "title": "Lunar and Planetary Institute: Apollo Sample Collection",
+      "url": "https://www.lpi.usra.edu/lunar/samples/",
+      "type": "academic"
+    },
+    {
+      "title": "Phil Plait, 'Bad Astronomy: Misconceptions and Misuses Revealed' (2002)",
+      "url": "https://www.penguinrandomhouse.com/books/294441/bad-astronomy-by-philip-plait-phd/",
+      "type": "academic"
+    },
+    {
+      "title": "Apache Point Observatory Lunar Laser-ranging Operation (APOLLO)",
+      "url": "https://physics.ucsd.edu/~tmurphy/apollo/",
+      "type": "academic"
+    }
+  ],
+  "tags": ["moon landing", "Apollo", "NASA", "debunked", "hoax theory", "space"]
+}

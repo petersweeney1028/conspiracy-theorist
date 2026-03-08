@@ -1,0 +1,100 @@
+{
+  "id": "tuskegee",
+  "title": "Tuskegee Syphilis Experiment",
+  "slug": "tuskegee",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Medical", "Civil Rights"],
+  "summary": "The United States Public Health Service conducted a 40-year experiment on 399 Black men in Tuskegee, Alabama, deliberately withholding treatment for syphilis to study the disease's progression. Participants were told they were receiving free healthcare. Even after penicillin became the standard cure in 1947, treatment was withheld.",
+  "mainstream_narrative_at_time": "Claims that the US government was experimenting on Black citizens were dismissed as unfounded paranoia and conspiracy thinking. The study was described internally as legitimate medical research. Concerns raised by Black communities about government medical abuse were not taken seriously by mainstream media or institutions.",
+  "what_happened": "In 1972, whistleblower Peter Buxtun leaked information to the Associated Press after his internal complaints were ignored. Reporter Jean Heller broke the story on July 25, 1972. The study was immediately terminated. Congressional hearings led to a complete overhaul of human experimentation rules. In 1997, President Bill Clinton formally apologized on behalf of the United States. The experiment is now widely cited as one of the most infamous examples of institutional racism in American medicine.",
+  "first_claimed": "1960s",
+  "confirmed_date": "1972",
+  "years_to_confirm": 10,
+  "timeline": [
+    {
+      "date": "1932",
+      "event": "US Public Health Service begins 'Tuskegee Study of Untreated Syphilis in the Negro Male' with 600 Black men (399 with syphilis, 201 controls)",
+      "type": "origin"
+    },
+    {
+      "date": "1934",
+      "event": "First published medical paper from the study. Participants told they are being treated for 'bad blood'",
+      "type": "coverup"
+    },
+    {
+      "date": "1947",
+      "event": "Penicillin becomes standard treatment for syphilis. Researchers deliberately withhold it from study participants",
+      "type": "coverup"
+    },
+    {
+      "date": "1965",
+      "event": "PHS employee Peter Buxtun learns of the study and files internal objections. He is told the study will continue until all participants die",
+      "type": "exposure"
+    },
+    {
+      "date": "1969",
+      "event": "CDC reaffirms need to continue the study. AMA and local medical societies cooperate in preventing participants from receiving treatment",
+      "type": "coverup"
+    },
+    {
+      "date": "1972-07-25",
+      "event": "Jean Heller of the Associated Press breaks the story after Buxtun leaks to the press",
+      "type": "exposure"
+    },
+    {
+      "date": "1972-11",
+      "event": "Study officially terminated. By this point, 28 men had died of syphilis, 100 of related complications, 40 wives infected, 19 children born with congenital syphilis",
+      "type": "confirmation"
+    },
+    {
+      "date": "1974",
+      "event": "National Research Act passed, creating requirements for institutional review boards and informed consent",
+      "type": "development"
+    },
+    {
+      "date": "1997-05-16",
+      "event": "President Bill Clinton issues formal apology: 'The United States government did something that was wrong — deeply, profoundly, morally wrong'",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "CDC: The Tuskegee Timeline",
+      "url": "https://www.cdc.gov/tuskegee/timeline.htm",
+      "type": "official"
+    },
+    {
+      "title": "James H. Jones, 'Bad Blood: The Tuskegee Syphilis Experiment' (Free Press, 1981)",
+      "url": "https://www.simonandschuster.com/books/Bad-Blood/James-H-Jones/9780029166772",
+      "type": "academic"
+    },
+    {
+      "title": "Associated Press: Jean Heller's original report (1972)",
+      "url": "https://apnews.com/article/tuskegee-syphilis-study-1972",
+      "type": "journalism"
+    },
+    {
+      "title": "Presidential Apology for the Tuskegee Syphilis Study (1997)",
+      "url": "https://clintonwhitehouse4.archives.gov/New/Remarks/Fri/19970516-898.html",
+      "type": "official"
+    }
+  ],
+  "tags": ["Tuskegee", "syphilis", "medical experimentation", "racism", "Public Health Service", "whistleblower"],
+  "related_media": [
+    {
+      "title": "Miss Evers' Boys (HBO)",
+      "url": "https://www.imdb.com/title/tt0119679/",
+      "type": "documentary",
+      "year": 1997,
+      "description": "HBO film dramatizing the Tuskegee experiment from the perspective of nurse Eunice Evers, who was caught between her loyalty to the patients and the demands of the researchers."
+    },
+    {
+      "title": "Bad Blood: The Tuskegee Syphilis Experiment — James H. Jones",
+      "url": "https://www.simonandschuster.com/books/Bad-Blood/James-H-Jones/9780029166772",
+      "type": "book",
+      "year": 1981,
+      "description": "The definitive historical account of the experiment, based on extensive archival research. Chronicles four decades of institutional racism disguised as medical research."
+    }
+  ]
+}

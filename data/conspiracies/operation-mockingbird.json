@@ -1,0 +1,64 @@
+{
+  "id": "operation-mockingbird",
+  "title": "Operation Mockingbird — CIA Infiltration of US Media",
+  "slug": "operation-mockingbird",
+  "status": "CONFIRMED",
+  "confidence": 90,
+  "category": ["Government", "Media", "Cold War"],
+  "summary": "Beginning in the early 1950s, the CIA cultivated relationships with major American news organizations and journalists to influence domestic and foreign media coverage. The agency placed stories, recruited reporters as assets, and used media outlets as cover for intelligence operations. The full scope was revealed by the Church Committee in 1975.",
+  "mainstream_narrative_at_time": "The notion that the CIA was manipulating American news coverage was dismissed as anti-American conspiracy thinking. The press was considered a pillar of democratic accountability — the idea that it had been compromised by intelligence agencies was treated as paranoid fantasy that undermined public trust in vital institutions.",
+  "what_happened": "The Church Committee investigation (1975) confirmed that the CIA had relationships with over 50 US journalists and media figures, and that the agency had used American news organizations as cover. CIA Director William Colby testified that the agency had journalists 'ichSon the payroll.' Carl Bernstein's 1977 Rolling Stone investigation identified specific relationships between the CIA and outlets including CBS, Time, the New York Times, and the Washington Post. Former CIA Director Allen Dulles had personally cultivated media relationships. In 1976, CIA Director George H.W. Bush issued a policy ending the paid recruitment of journalists — though critics noted the policy contained loopholes and voluntary cooperation was still permitted.",
+  "first_claimed": "1950s",
+  "confirmed_date": "1975",
+  "years_to_confirm": 22,
+  "timeline": [
+    {
+      "date": "1948",
+      "event": "Frank Wisner, head of CIA's Office of Policy Coordination, begins building media relationships. Program reportedly nicknamed 'Mockingbird' internally",
+      "type": "origin"
+    },
+    {
+      "date": "1953",
+      "event": "CIA Director Allen Dulles oversees expansion of media operations. Agency assets placed at major wire services, newspapers, magazines, and broadcast networks",
+      "type": "development"
+    },
+    {
+      "date": "1967",
+      "event": "Ramparts magazine exposes CIA funding of the National Student Association. First major crack in the agency's media and institutional cover operations",
+      "type": "exposure"
+    },
+    {
+      "date": "1975",
+      "event": "Church Committee investigation reveals CIA relationships with over 50 US journalists and 12 publishing houses. Director Colby testifies about the scope of media operations",
+      "type": "confirmation"
+    },
+    {
+      "date": "1976-02-11",
+      "event": "CIA Director George H.W. Bush announces policy that the CIA will not 'enter into any paid or contractual relationship with any full-time or part-time news correspondent.' Critics note the policy permits voluntary cooperation",
+      "type": "development"
+    },
+    {
+      "date": "1977-10-20",
+      "event": "Carl Bernstein publishes 'The CIA and the Media' in Rolling Stone, documenting over 400 American journalists who had carried out assignments for the CIA over the previous 25 years",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Church Committee Final Report, Book I: Foreign and Military Intelligence — Section on CIA and Media (1976)",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/94755_I.pdf",
+      "type": "primary"
+    },
+    {
+      "title": "Carl Bernstein, 'The CIA and the Media,' Rolling Stone (1977)",
+      "url": "https://www.carlbernstein.com/the-cia-and-the-media-rolling-stone-10-20-1977",
+      "type": "journalism"
+    },
+    {
+      "title": "CIA FOIA: Family Jewels Document Collection",
+      "url": "https://www.cia.gov/readingroom/collection/family-jewels",
+      "type": "primary"
+    }
+  ],
+  "tags": ["CIA", "media", "Mockingbird", "Cold War", "Church Committee", "propaganda"]
+}

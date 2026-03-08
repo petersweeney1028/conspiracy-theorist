@@ -1,0 +1,107 @@
+{
+  "id": "mk-ultra",
+  "title": "MKUltra — CIA Mind Control Program",
+  "slug": "mk-ultra",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Medical", "Cold War"],
+  "summary": "The CIA secretly ran a program of illegal human experimentation on thousands of American and Canadian citizens without consent, using LSD, hypnosis, electroconvulsive therapy, and other methods to develop mind control techniques.",
+  "mainstream_narrative_at_time": "Dismissed as paranoid anti-government fantasy. The idea that the CIA was drugging its own citizens was called 'absurd' and 'dangerous misinformation' by officials. Anyone who suggested the government was conducting mind control experiments was labeled a conspiracy theorist and discredited.",
+  "what_happened": "Confirmed by the Church Committee in 1975 and declassified documents released in 1977. CIA Director Stansfield Turner admitted the program's existence to Congress. Over 80 institutions were involved, including universities and hospitals. Some victims received settlements. CIA Director Richard Helms had ordered destruction of most MKUltra files in 1973, but 20,000 documents survived due to a filing error.",
+  "first_claimed": "1950s",
+  "confirmed_date": "1975",
+  "years_to_confirm": 22,
+  "timeline": [
+    {
+      "date": "1953-04-13",
+      "event": "MKUltra officially approved by CIA Director Allen Dulles",
+      "type": "origin"
+    },
+    {
+      "date": "1955",
+      "event": "Program expands to 144 universities, hospitals, prisons, and pharmaceutical companies across the US and Canada",
+      "type": "development"
+    },
+    {
+      "date": "1963-11-28",
+      "event": "Frank Olson, Army scientist dosed with LSD without consent, dies after falling from hotel window. CIA calls it suicide.",
+      "type": "coverup"
+    },
+    {
+      "date": "1964",
+      "event": "Program renamed MKSEARCH as scrutiny increases within the agency",
+      "type": "coverup"
+    },
+    {
+      "date": "1973-01",
+      "event": "CIA Director Richard Helms orders destruction of all MKUltra files before leaving office",
+      "type": "coverup"
+    },
+    {
+      "date": "1974-12-22",
+      "event": "New York Times publishes Seymour Hersh article on CIA domestic spying, triggering investigations",
+      "type": "exposure"
+    },
+    {
+      "date": "1975",
+      "event": "Church Committee investigation uncovers MKUltra during broader probe of intelligence abuses",
+      "type": "exposure"
+    },
+    {
+      "date": "1977-08-03",
+      "event": "Senate hearings: CIA Director Stansfield Turner admits full scope of MKUltra. 20,000 documents discovered that survived Helms' destruction order",
+      "type": "confirmation"
+    },
+    {
+      "date": "1994",
+      "event": "GAO report details human radiation experiments conducted alongside MKUltra",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Church Committee Final Report, Book I: Foreign and Military Intelligence (1976)",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/94755_II.pdf",
+      "type": "primary"
+    },
+    {
+      "title": "New York Times: 'Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces' (1974)",
+      "url": "https://www.nytimes.com/1974/12/22/archives/huge-cia-operation-reported-in-us-against-antiwar-forces.html",
+      "type": "journalism"
+    },
+    {
+      "title": "Joint Hearing Before the Senate Select Committee on Intelligence (1977)",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+      "type": "official"
+    },
+    {
+      "title": "CIA FOIA Reading Room — MKUltra Collection",
+      "url": "https://www.cia.gov/readingroom/collection/mkultra",
+      "type": "primary"
+    }
+  ],
+  "tags": ["CIA", "Cold War", "human experimentation", "LSD", "Church Committee", "officially confirmed"],
+  "related_media": [
+    {
+      "title": "Brainwashed: The Secret CIA Experiments in Canada",
+      "url": "https://www.cbc.ca/listen/cbc-podcasts/brainwashed",
+      "type": "podcast",
+      "year": 2017,
+      "description": "CBC investigative podcast on Dr. Donald Ewen Cameron's MKUltra experiments at McGill University, where patients were subjected to extreme depatterning techniques. Features survivors and their families."
+    },
+    {
+      "title": "Wormwood",
+      "url": "https://www.netflix.com/title/80059446",
+      "type": "series",
+      "year": 2017,
+      "description": "Errol Morris's Netflix docuseries investigating the mysterious death of Frank Olson, a CIA scientist who was dosed with LSD without his knowledge and died after falling from a hotel window."
+    },
+    {
+      "title": "The CIA's Secret Experiments (National Geographic)",
+      "url": "https://www.imdb.com/title/tt7440038/",
+      "type": "documentary",
+      "year": 2017,
+      "description": "National Geographic documentary tracing MKUltra from its Cold War origins through declassification, featuring interviews with researchers and surviving subjects."
+    }
+  ]
+}

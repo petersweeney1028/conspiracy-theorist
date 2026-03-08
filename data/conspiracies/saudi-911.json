@@ -1,0 +1,107 @@
+{
+  "id": "saudi-911",
+  "title": "9/11 Saudi Government Connection — The 28 Pages",
+  "slug": "saudi-911",
+  "status": "UNRESOLVED",
+  "confidence": 60,
+  "category": ["Government", "Intelligence", "Geopolitics"],
+  "summary": "Evidence linking Saudi Arabian government officials to the 9/11 hijackers was classified for 14 years. The '28 pages' of the Joint Congressional Inquiry, along with subsequent FBI investigations, revealed that Saudi embassy and consulate officials had contact with hijackers and that a Saudi intelligence operative provided direct assistance to two hijackers in San Diego. The full scope of Saudi government involvement remains disputed and partially classified.",
+  "mainstream_narrative_at_time": "After 9/11, Saudi Arabia was treated as a key US ally in the War on Terror despite 15 of the 19 hijackers being Saudi nationals. The Bush administration classified 28 pages of the Joint Congressional Inquiry detailing Saudi connections, citing national security. Families of 9/11 victims who alleged Saudi government complicity were told they were undermining the alliance. The 9/11 Commission stated it found 'no evidence that the Saudi government as an institution or senior Saudi officials individually funded' al-Qaeda, though it acknowledged some Saudi officials may have been involved.",
+  "what_happened": "The 28 pages, declassified in 2016, revealed that Saudi nationals with connections to the Saudi government provided significant assistance to at least two of the hijackers after they arrived in the US. Omar al-Bayoumi, long described as a 'student,' was identified as a Saudi intelligence operative who helped hijackers Nawaf al-Hazmi and Khalid al-Mihdhar find housing and provided financial support in San Diego. A 2021 FBI disclosure (accidentally released) named a Saudi embassy official as directing the support network. In 2024, Saudi Arabia settled a portion of the 9/11 families' lawsuit, though without admitting liability. The Justice Against Sponsors of Terrorism Act (JASTA), passed by Congress in 2016 over President Obama's veto, allowed the lawsuits to proceed. A full accounting of Saudi government involvement has never been made public.",
+  "first_claimed": "2002",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "2001-09-11",
+      "event": "19 hijackers carry out coordinated attacks. 15 are Saudi nationals. Immediately after, the Bush administration facilitates flights out of the US for Saudi nationals",
+      "type": "origin"
+    },
+    {
+      "date": "2002-12",
+      "event": "Joint Congressional Inquiry completes report. Bush administration classifies 28 pages detailing evidence of Saudi government connections to hijackers",
+      "type": "coverup"
+    },
+    {
+      "date": "2003",
+      "event": "Senator Bob Graham, co-chair of the inquiry, publicly states that evidence of Saudi involvement was deliberately suppressed and calls for declassification",
+      "type": "exposure"
+    },
+    {
+      "date": "2004-07-22",
+      "event": "9/11 Commission Report released. States 'no evidence' of Saudi government institutional funding of al-Qaeda but acknowledges individual Saudi officials may have been involved. Commission did not have access to all relevant CIA and FBI files",
+      "type": "development"
+    },
+    {
+      "date": "2012",
+      "event": "Florida federal court case reveals FBI investigated a Sarasota Saudi family who had contact with hijackers and fled the US days before 9/11. FBI had denied the investigation existed",
+      "type": "exposure"
+    },
+    {
+      "date": "2016-07-15",
+      "event": "The 28 pages declassified after 14 years. Reveal Saudi intelligence operative Omar al-Bayoumi provided direct support to hijackers in San Diego",
+      "type": "exposure"
+    },
+    {
+      "date": "2016-09-28",
+      "event": "Congress passes JASTA over Obama's veto, allowing 9/11 families to sue Saudi Arabia in US courts",
+      "type": "development"
+    },
+    {
+      "date": "2021-09",
+      "event": "Accidentally unsealed FBI document names Mussaed Ahmed al-Jarrah, a Saudi embassy official in Washington, as having directed the support operation for the hijackers",
+      "type": "exposure"
+    },
+    {
+      "date": "2024",
+      "event": "Saudi Arabia reaches partial settlement with some 9/11 families. Terms are confidential. Full scope of government involvement remains undisclosed",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Joint Inquiry into Intelligence Community Activities Before and After the Terrorist Attacks of September 11, 2001 — Declassified '28 Pages' (2016)",
+      "url": "https://www.intelligence.senate.gov/publications/joint-inquiry-intelligence-community-activities-and-after-terrorist-attacks",
+      "type": "official"
+    },
+    {
+      "title": "9/11 Commission Report — National Commission on Terrorist Attacks Upon the United States (2004)",
+      "url": "https://www.9-11commission.gov/report/",
+      "type": "official"
+    },
+    {
+      "title": "Bob Graham, 'Intelligence Matters: The CIA, the FBI, Saudi Arabia, and the Failure of America's War on Terror' (2004)",
+      "url": "https://www.penguinrandomhouse.com/books/288455/intelligence-matters-by-bob-graham/",
+      "type": "journalism"
+    },
+    {
+      "title": "FBI Declassified Document: 'Operation Encore' — Saudi Embassy Connection (2021)",
+      "url": "https://www.archives.gov/files/research/9-11/review-commission/fbi-communication-dated-june-4-2017.pdf",
+      "type": "primary"
+    }
+  ],
+  "tags": ["9/11", "Saudi Arabia", "28 pages", "hijackers", "JASTA", "al-Bayoumi", "classified"],
+  "related_media": [
+    {
+      "title": "The Looming Tower (Hulu Series)",
+      "url": "https://www.imdb.com/title/tt5834204/",
+      "type": "series",
+      "year": 2018,
+      "description": "Based on Lawrence Wright's Pulitzer-winning book, dramatizes the FBI-CIA rivalry that allowed the 9/11 plot to succeed. Exposes how institutional failures and turf wars overrode intelligence that could have prevented the attacks."
+    },
+    {
+      "title": "9/11: One Day in America (National Geographic)",
+      "url": "https://www.imdb.com/title/tt15373022/",
+      "type": "series",
+      "year": 2021,
+      "description": "Six-part docuseries told entirely through the stories and footage of the people who lived through 9/11, produced by the team behind the official 9/11 Memorial."
+    },
+    {
+      "title": "The Spy Who Knew Too Much — Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/the-agent/id1584665718",
+      "type": "podcast",
+      "year": 2022,
+      "description": "Investigation into the intelligence failures before 9/11, including the CIA's withholding of information about two future hijackers from the FBI."
+    }
+  ]
+}

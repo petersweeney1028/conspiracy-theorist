@@ -1,0 +1,107 @@
+{
+  "id": "jfk-assassination",
+  "title": "JFK Assassination — Lingering Questions and Withheld Files",
+  "slug": "jfk-assassination",
+  "status": "UNRESOLVED",
+  "confidence": 55,
+  "category": ["Government", "Intelligence", "Cover-up"],
+  "summary": "The official finding that Lee Harvey Oswald acted alone in assassinating President Kennedy has been questioned for decades. The House Select Committee on Assassinations concluded in 1979 that Kennedy was 'probably assassinated as a result of a conspiracy.' The CIA withheld relevant documents for 60 years, and thousands of pages remain partially redacted despite multiple congressional mandates for full disclosure.",
+  "mainstream_narrative_at_time": "The Warren Commission (1964) concluded that Lee Harvey Oswald acted alone. Questioning this finding was treated as irresponsible conspiracy theorizing. Despite widespread public skepticism — polls consistently show a majority of Americans disbelieve the lone gunman theory — the institutional position has been that the case is closed.",
+  "what_happened": "Significant questions remain unanswered. The House Select Committee on Assassinations (1979) concluded based on acoustic evidence that a conspiracy was 'probable,' though this finding is disputed. Oswald's connections to US intelligence agencies have never been fully explained — CIA officer George Joannides, who had contact with anti-Castro groups linked to Oswald, was assigned as the CIA's liaison to the HSCA while concealing his involvement. The CIA withheld his files for decades. The 1992 JFK Records Act mandated full release by 2017; Presidents Trump and Biden both delayed full disclosure citing national security. Documents released in 2022-2023 revealed the CIA monitored Oswald before the assassination and failed to share intelligence with the FBI and Warren Commission. As of 2025, some records remain redacted. No definitive evidence of a specific conspiracy has been proven, but the institutional resistance to transparency has fueled legitimate questions about what remains hidden.",
+  "first_claimed": "1963",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "1963-11-22",
+      "event": "President John F. Kennedy assassinated in Dallas. Lee Harvey Oswald arrested. Jack Ruby kills Oswald on live television two days later",
+      "type": "origin"
+    },
+    {
+      "date": "1964-09-24",
+      "event": "Warren Commission concludes Oswald acted alone. Report is criticized for not pursuing leads connecting Oswald to intelligence agencies",
+      "type": "development"
+    },
+    {
+      "date": "1967",
+      "event": "New Orleans District Attorney Jim Garrison brings conspiracy charges against Clay Shaw. Shaw is acquitted but the trial exposes CIA connections to key figures",
+      "type": "development"
+    },
+    {
+      "date": "1975",
+      "event": "Church Committee reveals CIA had conducted assassination plots against foreign leaders, raising questions about whether the agency would have disclosed involvement in Kennedy's death",
+      "type": "exposure"
+    },
+    {
+      "date": "1979",
+      "event": "House Select Committee on Assassinations concludes Kennedy was 'probably assassinated as a result of a conspiracy' based on acoustic evidence and other findings",
+      "type": "exposure"
+    },
+    {
+      "date": "1992-10-26",
+      "event": "President Bush signs JFK Records Act mandating release of all assassination-related records by 2017",
+      "type": "development"
+    },
+    {
+      "date": "2017-10",
+      "event": "Deadline for full release arrives. President Trump delays release of thousands of documents at CIA's request, citing national security",
+      "type": "coverup"
+    },
+    {
+      "date": "2022-12",
+      "event": "National Archives releases 13,000+ documents. Revelations include CIA monitoring of Oswald before assassination and failure to share intelligence with Warren Commission",
+      "type": "exposure"
+    },
+    {
+      "date": "2023",
+      "event": "Further document releases continue to show redactions. Full transparency remains incomplete over 60 years after the assassination",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Warren Commission Report (1964) — National Archives",
+      "url": "https://www.archives.gov/research/jfk/warren-commission-report",
+      "type": "official"
+    },
+    {
+      "title": "House Select Committee on Assassinations Final Report (1979)",
+      "url": "https://www.archives.gov/research/jfk/select-committee-report",
+      "type": "official"
+    },
+    {
+      "title": "JFK Assassination Records Collection — National Archives",
+      "url": "https://www.archives.gov/research/jfk",
+      "type": "primary"
+    },
+    {
+      "title": "Jefferson Morley, 'The Ghost: The Secret Life of CIA Spymaster James Jesus Angleton' (2017)",
+      "url": "https://www.stmartins.com/books/9781250080615",
+      "type": "journalism"
+    }
+  ],
+  "tags": ["JFK", "assassination", "Warren Commission", "CIA", "Oswald", "classified documents", "HSCA"],
+  "related_media": [
+    {
+      "title": "Who Killed JFK? — Rob Reiner & Soledad O'Brien",
+      "url": "https://open.spotify.com/show/6hD4xxJbvSRRyYoG196aSw",
+      "type": "podcast",
+      "year": 2023,
+      "description": "10-part investigative series featuring interviews with CIA officials, eyewitnesses, forensic experts, and a former Secret Service agent with new evidence. Reiner presents a detailed case for conspiracy involving four shooters."
+    },
+    {
+      "title": "JFK Revisited: Through the Looking Glass",
+      "url": "https://www.imdb.com/title/tt11083096/",
+      "type": "documentary",
+      "year": 2021,
+      "description": "Oliver Stone's follow-up documentary examining declassified documents released since his 1991 film. Presents forensic and archival evidence challenging the Warren Commission's findings."
+    },
+    {
+      "title": "JFK: What the Doctors Saw",
+      "url": "https://www.imdb.com/title/tt27811948/",
+      "type": "documentary",
+      "year": 2023,
+      "description": "Parkland Hospital doctors who treated Kennedy break their silence, describing wounds inconsistent with the official single-gunman narrative."
+    }
+  ]
+}

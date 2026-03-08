@@ -1,0 +1,74 @@
+{
+  "id": "havana-syndrome",
+  "title": "Havana Syndrome — Directed Energy Attacks on Diplomats",
+  "slug": "havana-syndrome",
+  "status": "UNRESOLVED",
+  "confidence": 40,
+  "category": ["Government", "Military", "Geopolitics"],
+  "summary": "Beginning in 2016, US and Canadian diplomats in Havana, Cuba reported sudden onset of debilitating neurological symptoms including vertigo, hearing loss, cognitive impairment, and intense pressure in the head. Similar incidents were subsequently reported in China, Russia, Austria, and Washington D.C. The cause remains officially undetermined, with intelligence agencies split on whether the symptoms resulted from directed energy weapons, environmental factors, or psychogenic illness.",
+  "mainstream_narrative_at_time": "Initial reports were met with skepticism both publicly and within the intelligence community. Affected diplomats reported feeling dismissed by their own agencies. Some officials suggested mass psychogenic illness. The State Department was slow to provide medical care and reluctant to publicly acknowledge the incidents, particularly as they complicated diplomatic relations with Cuba during the Obama-era normalization.",
+  "what_happened": "Over 1,500 US government personnel across multiple countries have reported symptoms consistent with 'anomalous health incidents.' A 2020 National Academies of Sciences report found that directed microwave radiation was the most plausible explanation for the core cases. However, a 2023 intelligence community assessment concluded that no foreign adversary was responsible — a finding contested by CIA officers and FBI investigators who believed Russia's GRU military intelligence unit was involved. A 2024 joint investigation by The Insider, Der Spiegel, and 60 Minutes identified a Russian military intelligence unit (29155) and specific agents linked to locations where incidents occurred. The US government has provided medical care and compensation through the HAVANA Act (2021) but has not officially attributed the attacks to any foreign actor.",
+  "first_claimed": "2016",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "2016-12",
+      "event": "US and Canadian diplomats in Havana begin reporting sudden onset of neurological symptoms including hearing loss, vertigo, and cognitive problems",
+      "type": "origin"
+    },
+    {
+      "date": "2017-08",
+      "event": "State Department acknowledges incidents and withdraws non-essential staff from Cuba. Initially attributes symptoms to 'sonic attacks'",
+      "type": "development"
+    },
+    {
+      "date": "2018",
+      "event": "Similar incidents reported at US consulate in Guangzhou, China, and in other countries. Pattern suggests something beyond a Cuba-specific phenomenon",
+      "type": "development"
+    },
+    {
+      "date": "2020-12-05",
+      "event": "National Academies of Sciences report concludes 'directed, pulsed radio frequency energy' is the most plausible explanation for the core symptoms",
+      "type": "development"
+    },
+    {
+      "date": "2021-10",
+      "event": "HAVANA Act signed into law, providing medical care and financial support to affected government employees",
+      "type": "development"
+    },
+    {
+      "date": "2023-03",
+      "event": "Intelligence community assessment concludes it is 'very unlikely' a foreign adversary is responsible. Assessment is immediately contested by CIA and FBI investigators",
+      "type": "denial"
+    },
+    {
+      "date": "2024-04",
+      "event": "Joint investigation by The Insider, Der Spiegel, and 60 Minutes links Russian GRU Unit 29155 to locations of Havana Syndrome incidents. Members identified through phone and travel records",
+      "type": "exposure"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "National Academies of Sciences: 'An Assessment of Illness in U.S. Government Employees and Their Families at Overseas Embassies' (2020)",
+      "url": "https://nap.nationalacademies.org/catalog/25889/an-assessment-of-illness-in-us-government-employees-and-their-families-at-overseas-embassies",
+      "type": "academic"
+    },
+    {
+      "title": "The Insider / Der Spiegel / 60 Minutes: Joint Investigation into GRU Unit 29155 (2024)",
+      "url": "https://theins.ru/en/politics/270425",
+      "type": "journalism"
+    },
+    {
+      "title": "ODNI: Assessment of Anomalous Health Incidents (2023)",
+      "url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3684-2023-anomalous-health-incidents-assessment",
+      "type": "official"
+    },
+    {
+      "title": "HAVANA Act of 2021 — Public Law 117-46",
+      "url": "https://www.congress.gov/bill/117th-congress/senate-bill/1828",
+      "type": "official"
+    }
+  ],
+  "tags": ["Havana Syndrome", "directed energy", "GRU", "diplomats", "Russia", "anomalous health incidents"]
+}

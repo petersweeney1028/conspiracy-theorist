@@ -1,0 +1,107 @@
+{
+  "id": "iraq-wmds",
+  "title": "Iraq WMDs — Fabricated Intelligence for War",
+  "slug": "iraq-wmds",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Military", "Intelligence"],
+  "summary": "The Bush administration used manipulated and fabricated intelligence about weapons of mass destruction to build the case for invading Iraq in 2003. Key claims — including mobile biological weapons labs, uranium purchases from Niger, and active nuclear weapons programs — were either unsupported or known to be unreliable before they were presented to the public and the United Nations.",
+  "mainstream_narrative_at_time": "After 9/11, questioning the government's intelligence on Iraq was treated as unpatriotic. Critics who challenged WMD claims were marginalized. The Dixie Chicks faced boycotts for opposing the war. France was mocked for refusing to support the invasion. Major media outlets, including the New York Times and Washington Post, amplified administration claims with minimal skepticism. The phrase 'weapons of mass destruction' became near-sacrosanct in public discourse.",
+  "what_happened": "No weapons of mass destruction were found in Iraq. The Iraq Survey Group's final report (Duelfer Report, 2004) concluded that Iraq had destroyed its WMD stockpiles in 1991 and had no active programs. Key intelligence was fabricated: the primary source for mobile weapons labs ('Curveball') was a known fabricator whom German intelligence had warned was unreliable. The Niger uranium claim was based on forged documents. Colin Powell's 2005 interview called his UN presentation 'a blot' on his record. The Senate Intelligence Committee's Phase II report (2008) concluded that the administration's public statements were 'not supported by the intelligence.' The invasion led to an estimated 200,000+ Iraqi civilian deaths and cost over $2 trillion.",
+  "first_claimed": "2002",
+  "confirmed_date": "2004",
+  "years_to_confirm": 2,
+  "timeline": [
+    {
+      "date": "2002-01-29",
+      "event": "President Bush names Iraq in 'Axis of Evil' during State of the Union. Administration begins publicly building case for invasion",
+      "type": "origin"
+    },
+    {
+      "date": "2002-09-08",
+      "event": "National Security Advisor Condoleezza Rice on CNN: 'We don't want the smoking gun to be a mushroom cloud.' Administration officials fan out across Sunday shows with coordinated WMD claims",
+      "type": "development"
+    },
+    {
+      "date": "2002-10",
+      "event": "National Intelligence Estimate produced under political pressure. Dissents from State Department and Energy Department analysts are buried in footnotes",
+      "type": "coverup"
+    },
+    {
+      "date": "2003-01-28",
+      "event": "Bush cites Niger uranium claim in State of the Union despite CIA warnings that the intelligence was unreliable. The '16 words' become infamous",
+      "type": "coverup"
+    },
+    {
+      "date": "2003-02-05",
+      "event": "Secretary of State Colin Powell presents WMD case to UN Security Council with satellite photos, diagrams, and a vial of simulated anthrax. Much of the intelligence is later proven false",
+      "type": "development"
+    },
+    {
+      "date": "2003-03-20",
+      "event": "US invasion of Iraq begins. Coalition forces find no WMD stockpiles or active programs in the following months",
+      "type": "development"
+    },
+    {
+      "date": "2003-07-06",
+      "event": "Ambassador Joseph Wilson publishes NYT op-ed revealing he was sent to Niger in 2002 and found no evidence of uranium sales. Administration retaliates by outing his wife, CIA officer Valerie Plame",
+      "type": "exposure"
+    },
+    {
+      "date": "2004-09-30",
+      "event": "Iraq Survey Group (Duelfer Report) concludes Iraq had no WMD stockpiles and no active programs since 1991",
+      "type": "confirmation"
+    },
+    {
+      "date": "2008-06-05",
+      "event": "Senate Intelligence Committee Phase II report concludes administration statements on Iraq WMDs were 'not supported by the intelligence'",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "CIA Duelfer Report: Comprehensive Report of the Special Advisor to the DCI on Iraq's WMD (2004)",
+      "url": "https://www.cia.gov/library/reports/general-reports-1/iraq_wmd_2004/",
+      "type": "official"
+    },
+    {
+      "title": "Senate Select Committee on Intelligence: Phase II Report on Prewar Intelligence (2008)",
+      "url": "https://www.intelligence.senate.gov/publications/report-whether-public-statements-regarding-iraq-senior-policy-makers-were-substantiated",
+      "type": "official"
+    },
+    {
+      "title": "Colin Powell UN Presentation Transcript and Analysis — National Security Archive",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB129/index.htm",
+      "type": "primary"
+    },
+    {
+      "title": "New York Times: 'The Times and Iraq' — Editors' Note on prewar coverage failures (2004)",
+      "url": "https://www.nytimes.com/2004/05/26/world/from-the-editors-the-times-and-iraq.html",
+      "type": "journalism"
+    }
+  ],
+  "tags": ["Iraq", "WMD", "Bush", "Colin Powell", "fabricated intelligence", "War on Terror"],
+  "related_media": [
+    {
+      "title": "Uncovered: The War on Iraq",
+      "url": "https://www.imdb.com/title/tt0387596/",
+      "type": "documentary",
+      "year": 2004,
+      "description": "Features interviews with CIA, Pentagon, and State Department insiders who explain how intelligence was manipulated to build the case for invasion."
+    },
+    {
+      "title": "Official Secrets",
+      "url": "https://www.imdb.com/title/tt5431890/",
+      "type": "documentary",
+      "year": 2019,
+      "description": "True story of GCHQ whistleblower Katharine Gun, who leaked a classified memo revealing an illegal NSA-GCHQ spying operation to manipulate the UN vote on the Iraq War."
+    },
+    {
+      "title": "Blowback (Podcast) — Season 1: Iraq",
+      "url": "https://blowback.show/",
+      "type": "podcast",
+      "year": 2020,
+      "description": "Critically acclaimed podcast tracing the full history of US involvement in Iraq from the 1960s through the 2003 invasion, connecting decades of policy to the WMD deception."
+    }
+  ]
+}

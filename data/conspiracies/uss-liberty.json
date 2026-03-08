@@ -1,0 +1,79 @@
+{
+  "id": "uss-liberty",
+  "title": "USS Liberty — Israel's Attack on a US Navy Ship",
+  "slug": "uss-liberty",
+  "status": "CONFIRMED",
+  "confidence": 95,
+  "category": ["Government", "Military", "Cover-up"],
+  "summary": "On June 8, 1967, Israeli air and naval forces attacked the USS Liberty, a clearly marked American intelligence ship operating in international waters during the Six-Day War. The attack killed 34 American sailors and wounded 171. Despite the ship flying a large American flag and bearing clear markings, the assault lasted over two hours using napalm, torpedoes, and machine gun fire. The US government accepted Israel's claim of mistaken identity and suppressed investigation into the incident. Surviving crew members have maintained for decades that the attack was deliberate.",
+  "mainstream_narrative_at_time": "The US government quickly accepted Israel's explanation that the attack was a tragic case of mistaken identity during the fog of war. Surviving crew members were ordered not to speak about the incident under threat of imprisonment. Media coverage was minimal and largely echoed the official line. Anyone questioning the mistaken identity narrative was accused of anti-Israel bias or conspiracy thinking.",
+  "what_happened": "Declassified NSA documents, intercepted communications, and testimony from surviving crew members paint a different picture. The ship was surveilled by Israeli reconnaissance aircraft for hours before the attack. Israeli pilots have stated they identified the ship as American. NSA intercepts reportedly captured Israeli communications confirming knowledge of the ship's identity. A Navy court of inquiry was conducted in just one week under political pressure and was later described by its lead counsel, Captain Ward Boston, as a cover-up — Boston signed a sworn affidavit in 2004 stating he was ordered by the White House to conclude the attack was mistaken identity. Congress has never held a formal investigation. In 2003, an independent commission led by Admiral Thomas Moorer (former Chairman of the Joint Chiefs) concluded the attack was deliberate and that the US government covered it up to protect the US-Israel relationship.",
+  "first_claimed": "1967",
+  "confirmed_date": "2003",
+  "years_to_confirm": 36,
+  "timeline": [
+    {
+      "date": "1967-06-08",
+      "event": "Israeli aircraft and torpedo boats attack USS Liberty in international waters off the Sinai Peninsula. 34 American sailors killed, 171 wounded. Attack lasts over two hours",
+      "type": "origin"
+    },
+    {
+      "date": "1967-06-08",
+      "event": "Israeli government immediately claims mistaken identity. President Johnson accepts the explanation without independent investigation. Rescue aircraft recalled mid-flight on orders from Washington",
+      "type": "coverup"
+    },
+    {
+      "date": "1967-06-10",
+      "event": "Surviving crew members ordered not to discuss the incident with anyone, including family, under threat of court-martial and imprisonment",
+      "type": "coverup"
+    },
+    {
+      "date": "1967-06-18",
+      "event": "Navy Court of Inquiry convened. Investigation completed in just one week despite the complexity of the incident. Concludes attack was mistaken identity",
+      "type": "coverup"
+    },
+    {
+      "date": "1980",
+      "event": "Survivors begin organizing and publicly challenging the official narrative. USS Liberty Veterans Association formed to advocate for a congressional investigation",
+      "type": "exposure"
+    },
+    {
+      "date": "2003-10",
+      "event": "Independent commission chaired by Admiral Thomas Moorer (former Chairman of the Joint Chiefs) concludes: 'Israel committed acts of murder against American servicemen and an act of war against the United States' and that the cover-up was ordered at the highest levels",
+      "type": "confirmation"
+    },
+    {
+      "date": "2004",
+      "event": "Captain Ward Boston, lead counsel of the 1967 Navy inquiry, signs sworn affidavit stating he was ordered by the White House to conclude mistaken identity regardless of evidence",
+      "type": "confirmation"
+    },
+    {
+      "date": "2007",
+      "event": "Declassified NSA documents reveal the agency had intelligence suggesting Israel knew the ship was American. Full NSA file on the incident remains partially classified",
+      "type": "exposure"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Moorer Commission: Independent Commission of Inquiry Report on the USS Liberty (2003)",
+      "url": "https://www.usslibertyveterans.org/moorer-commission",
+      "type": "primary"
+    },
+    {
+      "title": "Captain Ward Boston Jr. — Sworn Affidavit on the Navy Court of Inquiry (2004)",
+      "url": "https://www.usslibertyveterans.org/ward-boston-affidavit",
+      "type": "primary"
+    },
+    {
+      "title": "James Scott, 'The Attack on the Liberty: The Untold Story of Israel's Deadly 1967 Assault on a U.S. Spy Ship' (Simon & Schuster, 2009)",
+      "url": "https://www.simonandschuster.com/books/The-Attack-on-the-Liberty/James-Scott/9781416554837",
+      "type": "journalism"
+    },
+    {
+      "title": "NSA Declassified: USS Liberty Document Collection",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/uss-liberty/",
+      "type": "primary"
+    }
+  ],
+  "tags": ["USS Liberty", "Israel", "Six-Day War", "Navy", "cover-up", "declassified"]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "flint-water",
+  "title": "Flint Water Crisis — Government Knew About Lead",
+  "slug": "flint-water",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Public Health", "Cover-up"],
+  "summary": "Michigan state officials knowingly switched Flint's water supply to a corrosive source without proper treatment, then actively suppressed evidence of dangerous lead contamination for over a year while residents — predominantly Black and low-income — reported brown water, rashes, and illness. Internal emails later showed officials were aware of the contamination while publicly insisting the water was safe.",
+  "mainstream_narrative_at_time": "State and city officials repeatedly assured Flint residents that the water was safe to drink despite visible discoloration and widespread complaints. Governor Rick Snyder's administration dismissed concerns as overblown. When residents and independent researchers raised alarms about lead levels, they were accused of causing 'near-hysteria.' The EPA's regional office also initially downplayed the crisis.",
+  "what_happened": "In April 2014, Flint's emergency manager switched the city's water supply from Detroit's system to the Flint River to save money, without adding corrosion control treatment. The untreated water leached lead from aging pipes. Internal state emails from 2015 revealed officials knew about elevated lead levels months before acknowledging the problem publicly. Virginia Tech researchers and pediatrician Dr. Mona Hanna-Attisha independently confirmed dangerous lead levels in water and children's blood. Governor Snyder declared a state of emergency in January 2016. Criminal charges were brought against 15 state and city officials, including the governor, who was charged with willful neglect of duty. At least 12 people died from Legionnaires' disease linked to the water switch.",
+  "first_claimed": "2014",
+  "confirmed_date": "2015",
+  "years_to_confirm": 1,
+  "timeline": [
+    {
+      "date": "2014-04-25",
+      "event": "Flint switches water supply from Detroit's Lake Huron system to the Flint River under emergency management to save $5 million over two years",
+      "type": "origin"
+    },
+    {
+      "date": "2014-08",
+      "event": "Residents begin complaining of brown, foul-smelling water. E. coli detected. City issues boil-water advisories but insists water is safe",
+      "type": "development"
+    },
+    {
+      "date": "2015-02",
+      "event": "EPA water expert Miguel Del Toral writes internal memo warning of dangerous lead levels in Flint homes. Memo is suppressed by regional EPA office",
+      "type": "coverup"
+    },
+    {
+      "date": "2015-07",
+      "event": "Governor Snyder's chief of staff emails: 'These folks are scared and worried about the health impacts and they are basically getting blown off by us.' State takes no public action",
+      "type": "coverup"
+    },
+    {
+      "date": "2015-09-15",
+      "event": "Virginia Tech researchers publish findings showing Flint water lead levels meet EPA criteria for 'toxic waste.' State officials call the research irresponsible",
+      "type": "exposure"
+    },
+    {
+      "date": "2015-09-24",
+      "event": "Dr. Mona Hanna-Attisha publishes research showing blood lead levels in Flint children doubled and tripled after the water switch. State initially calls her findings 'unfortunate'",
+      "type": "exposure"
+    },
+    {
+      "date": "2015-10-16",
+      "event": "Flint reconnects to Detroit water system after 18 months on Flint River water",
+      "type": "development"
+    },
+    {
+      "date": "2016-01-05",
+      "event": "Governor Snyder declares state of emergency. Federal emergency declared January 16",
+      "type": "confirmation"
+    },
+    {
+      "date": "2021-01-14",
+      "event": "Former Governor Rick Snyder and eight other officials criminally charged. Snyder charged with two counts of willful neglect of duty",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Flint Water Advisory Task Force Final Report (2016)",
+      "url": "https://www.michigan.gov/flintwater/fwatf",
+      "type": "official"
+    },
+    {
+      "title": "Virginia Tech Flint Water Study",
+      "url": "http://flintwaterstudy.org/",
+      "type": "academic"
+    },
+    {
+      "title": "Dr. Mona Hanna-Attisha, 'What the Eyes Don't See' (One World, 2018)",
+      "url": "https://www.penguinrandomhouse.com/books/547470/what-the-eyes-dont-see-by-mona-hanna-attisha-md-mph/",
+      "type": "academic"
+    },
+    {
+      "title": "Michigan Governor's Office Emails — FOIA Release (2016)",
+      "url": "https://www.michigan.gov/flintwater/resources/emails",
+      "type": "primary"
+    }
+  ],
+  "tags": ["Flint", "lead", "water contamination", "environmental racism", "Michigan", "public health"],
+  "related_media": [
+    {
+      "title": "Flint Town (Netflix)",
+      "url": "https://www.netflix.com/title/80175459",
+      "type": "series",
+      "year": 2018,
+      "description": "Netflix docuseries following Flint police officers during the water crisis, capturing how the poisoning compounded existing problems of poverty, crime, and institutional neglect."
+    },
+    {
+      "title": "What the Eyes Don't See — Dr. Mona Hanna-Attisha",
+      "url": "https://www.penguinrandomhouse.com/books/547470/what-the-eyes-dont-see-by-mona-hanna-attisha-md-mph/",
+      "type": "book",
+      "year": 2018,
+      "description": "The pediatrician who exposed the crisis tells her story of fighting government denials with data, and how she proved Flint's children were being poisoned by their own water supply."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "cointelpro",
+  "title": "COINTELPRO — FBI Surveillance of Civil Rights Groups",
+  "slug": "cointelpro",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Civil Rights", "Surveillance"],
+  "summary": "The FBI conducted a covert program to surveil, infiltrate, discredit, and disrupt domestic political organizations including civil rights groups, anti-war movements, and Black activist organizations from 1956 to 1971.",
+  "mainstream_narrative_at_time": "Claims that the FBI was actively working to destroy civil rights organizations were dismissed as paranoid. Martin Luther King Jr.'s allegations of government harassment were downplayed. The idea of systematic FBI targeting of peaceful activists was considered fringe conspiracy thinking.",
+  "what_happened": "In 1971, the Citizens' Commission to Investigate the FBI broke into an FBI office in Media, Pennsylvania, and stole documents revealing the program. The stolen files were sent to journalists. The Church Committee's 1975 investigation fully confirmed the scope: FBI had sent anonymous letters to MLK urging suicide, planted informants in the Black Panthers, and worked to 'neutralize' activists. Director J. Edgar Hoover had personally authorized the operations.",
+  "first_claimed": "1960s",
+  "confirmed_date": "1971",
+  "years_to_confirm": 10,
+  "timeline": [
+    {
+      "date": "1956-08",
+      "event": "FBI Director J. Edgar Hoover launches COINTELPRO to disrupt the Communist Party USA",
+      "type": "origin"
+    },
+    {
+      "date": "1963",
+      "event": "FBI classifies Martin Luther King Jr. as 'the most dangerous Negro in America' and begins intensive surveillance",
+      "type": "coverup"
+    },
+    {
+      "date": "1964-11",
+      "event": "FBI sends anonymous letter to MLK with surveillance recordings, implicitly urging him to commit suicide",
+      "type": "coverup"
+    },
+    {
+      "date": "1967",
+      "event": "COINTELPRO-BLACK HATE program launched specifically targeting Black nationalist organizations",
+      "type": "development"
+    },
+    {
+      "date": "1969-12-04",
+      "event": "Chicago police, working with FBI intelligence, raid Black Panther Fred Hampton's apartment, killing him in his bed",
+      "type": "coverup"
+    },
+    {
+      "date": "1971-03-08",
+      "event": "Citizens' Commission to Investigate the FBI burglarizes FBI office in Media, PA, stealing COINTELPRO documents",
+      "type": "exposure"
+    },
+    {
+      "date": "1971-04",
+      "event": "Washington Post and other outlets publish stolen FBI documents revealing domestic surveillance programs",
+      "type": "exposure"
+    },
+    {
+      "date": "1971-04-28",
+      "event": "Hoover officially terminates COINTELPRO after media exposure",
+      "type": "development"
+    },
+    {
+      "date": "1975",
+      "event": "Church Committee investigation fully documents COINTELPRO's scope and methods",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Church Committee: Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans, Book III (1976)",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/94755_III.pdf",
+      "type": "primary"
+    },
+    {
+      "title": "FBI FOIA: COINTELPRO Document Collection",
+      "url": "https://vault.fbi.gov/cointel-pro",
+      "type": "primary"
+    },
+    {
+      "title": "Washington Post coverage of Media, PA burglary documents (1971)",
+      "url": "https://www.washingtonpost.com/wp-srv/national/longterm/fbi/fbi.htm",
+      "type": "journalism"
+    },
+    {
+      "title": "Betty Medsger, 'The Burglary: The Discovery of J. Edgar Hoover's Secret FBI' (2014)",
+      "url": "https://www.penguinrandomhouse.com/books/211344/the-burglary-by-betty-medsger/",
+      "type": "journalism"
+    }
+  ],
+  "tags": ["FBI", "civil rights", "MLK", "Black Panthers", "surveillance", "Hoover", "Church Committee"],
+  "related_media": [
+    {
+      "title": "MLK/FBI",
+      "url": "https://www.imdb.com/title/tt9358204/",
+      "type": "documentary",
+      "year": 2020,
+      "description": "Based on newly declassified files, this documentary reveals the full extent of the FBI's surveillance and harassment campaign against Martin Luther King Jr., including Hoover's personal vendetta."
+    },
+    {
+      "title": "Judas and the Black Messiah",
+      "url": "https://www.imdb.com/title/tt9784798/",
+      "type": "documentary",
+      "year": 2021,
+      "description": "Dramatization of the FBI's infiltration of the Black Panther Party and the events leading to the assassination of Fred Hampton, based on historical records."
+    },
+    {
+      "title": "1971 (Documentary)",
+      "url": "https://www.imdb.com/title/tt4065414/",
+      "type": "documentary",
+      "year": 2014,
+      "description": "The untold story of the Citizens' Commission to Investigate the FBI — the group that broke into an FBI office in Media, PA and exposed COINTELPRO to the world."
+    }
+  ]
+}

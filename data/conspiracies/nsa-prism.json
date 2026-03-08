@@ -1,0 +1,107 @@
+{
+  "id": "nsa-prism",
+  "title": "NSA PRISM — Mass Surveillance of Citizens",
+  "slug": "nsa-prism",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Surveillance", "Technology"],
+  "summary": "The National Security Agency operated a mass surveillance program called PRISM that collected internet communications from major US tech companies including Google, Facebook, Apple, and Microsoft. The NSA also collected phone metadata on virtually all Americans through a separate program.",
+  "mainstream_narrative_at_time": "Suggestions that the US government was conducting mass surveillance of its own citizens' communications were dismissed as paranoid. Officials repeatedly denied any such programs existed. In 2012, Director of National Intelligence James Clapper told Congress under oath that the NSA did 'not wittingly' collect data on millions of Americans — a statement later proven false.",
+  "what_happened": "In June 2013, NSA contractor Edward Snowden leaked classified documents to journalists Glenn Greenwald and Laura Poitras revealing the full scope of NSA surveillance. PRISM gave the NSA direct access to servers of Google, Facebook, Apple, Microsoft, Yahoo, and others. A separate program collected phone metadata on virtually all US phone calls. The revelations led to global diplomatic incidents, tech industry reforms, and the USA FREEDOM Act of 2015, which limited some collection practices.",
+  "first_claimed": "2000s",
+  "confirmed_date": "2013",
+  "years_to_confirm": 10,
+  "timeline": [
+    {
+      "date": "2001-10-26",
+      "event": "USA PATRIOT Act signed into law, dramatically expanding government surveillance authority",
+      "type": "origin"
+    },
+    {
+      "date": "2005-12-16",
+      "event": "New York Times reveals NSA warrantless wiretapping program authorized by President Bush",
+      "type": "exposure"
+    },
+    {
+      "date": "2007",
+      "event": "PRISM program begins collecting data from Microsoft, with Yahoo added in 2008 and Google in 2009",
+      "type": "development"
+    },
+    {
+      "date": "2008",
+      "event": "FISA Amendments Act retroactively legalizes warrantless surveillance and grants telecom companies immunity",
+      "type": "coverup"
+    },
+    {
+      "date": "2012-03-12",
+      "event": "DNI James Clapper tells Senate Intelligence Committee the NSA does 'not wittingly' collect data on Americans",
+      "type": "denial"
+    },
+    {
+      "date": "2013-06-05",
+      "event": "The Guardian publishes leaked FISA court order showing Verizon required to hand over all call records to NSA",
+      "type": "exposure"
+    },
+    {
+      "date": "2013-06-06",
+      "event": "Washington Post and Guardian reveal PRISM program, showing NSA direct access to tech company servers",
+      "type": "confirmation"
+    },
+    {
+      "date": "2013-06-09",
+      "event": "Edward Snowden identifies himself as the source of the leaks from Hong Kong",
+      "type": "development"
+    },
+    {
+      "date": "2015-06-02",
+      "event": "USA FREEDOM Act signed, ending bulk phone metadata collection by NSA",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "The Guardian: 'NSA collecting phone records of millions of Verizon customers daily' (2013)",
+      "url": "https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order",
+      "type": "journalism"
+    },
+    {
+      "title": "Washington Post: 'NSA, FBI are tapping directly into the central servers of nine leading U.S. Internet companies' (2013)",
+      "url": "https://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html",
+      "type": "journalism"
+    },
+    {
+      "title": "ODNI Declassified FISA Court Orders and NSA Reports",
+      "url": "https://www.dni.gov/index.php/ic-legal-reference-book/section-702",
+      "type": "official"
+    },
+    {
+      "title": "Edward Snowden Archive — The Courage Foundation",
+      "url": "https://edwardsnowden.com/",
+      "type": "primary"
+    }
+  ],
+  "tags": ["NSA", "Snowden", "PRISM", "surveillance", "metadata", "FISA", "tech companies"],
+  "related_media": [
+    {
+      "title": "Citizenfour",
+      "url": "https://www.imdb.com/title/tt4044364/",
+      "type": "documentary",
+      "year": 2014,
+      "description": "Laura Poitras's Oscar-winning documentary filmed in real time as Edward Snowden reveals classified NSA surveillance programs to journalists in a Hong Kong hotel room. Essential viewing."
+    },
+    {
+      "title": "United States of Secrets (FRONTLINE)",
+      "url": "https://www.pbs.org/wgbh/frontline/documentary/united-states-of-secrets/",
+      "type": "documentary",
+      "year": 2014,
+      "description": "Two-part PBS FRONTLINE investigation: Part 1 traces the secret political history of NSA surveillance from 9/11 to Snowden. Part 2 examines Silicon Valley's role in enabling mass data collection."
+    },
+    {
+      "title": "Permanent Record — Edward Snowden",
+      "url": "https://www.penguinrandomhouse.com/books/564932/permanent-record-by-edward-snowden/",
+      "type": "book",
+      "year": 2019,
+      "description": "Snowden's memoir detailing his journey from intelligence community insider to the most wanted whistleblower in the world, and why he decided to risk everything to expose mass surveillance."
+    }
+  ]
+}

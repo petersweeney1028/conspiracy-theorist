@@ -1,0 +1,100 @@
+{
+  "id": "tobacco-cancer",
+  "title": "Tobacco Industry Cancer Cover-Up",
+  "slug": "tobacco-cancer",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Corporate", "Medical", "Cover-up"],
+  "summary": "For decades, tobacco companies knew their products caused cancer and were addictive, while publicly denying both. Internal documents revealed the industry funded fake research, manipulated nicotine levels, and orchestrated a massive public relations campaign to manufacture doubt about the scientific consensus.",
+  "mainstream_narrative_at_time": "Tobacco companies presented smoking as a personal choice with debatable health effects. Industry-funded scientists questioned the link between smoking and cancer. Anyone claiming a coordinated cover-up was accused of being anti-business or overly alarmist. The industry's position — 'the science isn't settled' — was widely accepted by media and policymakers for decades.",
+  "what_happened": "Internal industry documents leaked in the 1990s revealed that tobacco executives had known since the 1950s that cigarettes caused cancer and were addictive. The 1998 Master Settlement Agreement with 46 state attorneys general resulted in a $206 billion settlement — the largest civil litigation settlement in US history. A federal court found in 2006 that tobacco companies had engaged in a decades-long conspiracy to deceive the public. Over 14 million internal documents were made public.",
+  "first_claimed": "1950s",
+  "confirmed_date": "1998",
+  "years_to_confirm": 40,
+  "timeline": [
+    {
+      "date": "1950",
+      "event": "Major epidemiological studies by Doll & Hill and Wynder & Graham establish link between smoking and lung cancer",
+      "type": "origin"
+    },
+    {
+      "date": "1953",
+      "event": "Tobacco CEOs meet at the Plaza Hotel in New York and hire Hill & Knowlton PR firm to fight cancer claims",
+      "type": "coverup"
+    },
+    {
+      "date": "1954-01-04",
+      "event": "Industry publishes 'A Frank Statement to Cigarette Smokers' in 448 newspapers, pledging commitment to public health while disputing cancer link",
+      "type": "coverup"
+    },
+    {
+      "date": "1964-01-11",
+      "event": "US Surgeon General's report officially concludes smoking causes lung cancer. Industry disputes findings",
+      "type": "exposure"
+    },
+    {
+      "date": "1969",
+      "event": "Internal memo: 'Doubt is our product since it is the best means of competing with the body of fact that exists in the mind of the general public'",
+      "type": "coverup"
+    },
+    {
+      "date": "1994-04-14",
+      "event": "Seven tobacco CEOs testify under oath before Congress that nicotine is not addictive",
+      "type": "denial"
+    },
+    {
+      "date": "1996",
+      "event": "Whistleblower Jeffrey Wigand exposes Brown & Williamson's knowledge of nicotine addiction on 60 Minutes",
+      "type": "exposure"
+    },
+    {
+      "date": "1998-11-23",
+      "event": "Master Settlement Agreement signed: $206 billion, the largest civil litigation settlement in US history",
+      "type": "confirmation"
+    },
+    {
+      "date": "2006-08-17",
+      "event": "Federal judge rules tobacco companies guilty of racketeering — a decades-long conspiracy to deceive the public",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "UCSF Truth Tobacco Industry Documents Archive",
+      "url": "https://www.industrydocuments.ucsf.edu/tobacco/",
+      "type": "primary"
+    },
+    {
+      "title": "United States v. Philip Morris (D.C. District Court, 2006) — Final Opinion",
+      "url": "https://www.publichealthlawcenter.org/content/us-v-philip-morris-final-opinion",
+      "type": "official"
+    },
+    {
+      "title": "Allan M. Brandt, 'The Cigarette Century' (Harvard University Press, 2007)",
+      "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674024090",
+      "type": "academic"
+    },
+    {
+      "title": "Master Settlement Agreement (1998) — Full Text",
+      "url": "https://www.naag.org/our-work/naag-center-for-tobacco-and-public-health/the-master-settlement-agreement/",
+      "type": "official"
+    }
+  ],
+  "tags": ["tobacco", "cancer", "corporate cover-up", "Big Tobacco", "public health", "racketeering"],
+  "related_media": [
+    {
+      "title": "The Insider",
+      "url": "https://www.imdb.com/title/tt0140352/",
+      "type": "documentary",
+      "year": 1999,
+      "description": "Michael Mann's dramatization of whistleblower Jeffrey Wigand's battle against Brown & Williamson and 60 Minutes' initially suppressed interview. Starring Russell Crowe and Al Pacino."
+    },
+    {
+      "title": "Merchants of Doubt",
+      "url": "https://www.imdb.com/title/tt3675568/",
+      "type": "documentary",
+      "year": 2014,
+      "description": "Documentary exposing how the tobacco industry's playbook for manufacturing scientific doubt was adopted by other industries to deny climate change, toxic chemicals, and pharmaceutical risks."
+    }
+  ]
+}

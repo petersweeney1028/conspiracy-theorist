@@ -1,0 +1,100 @@
+{
+  "id": "operation-ajax",
+  "title": "Operation Ajax — CIA Overthrow of Iran's Democracy",
+  "slug": "operation-ajax",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Intelligence", "Geopolitics"],
+  "summary": "In 1953, the CIA and British MI6 orchestrated a coup d'etat to overthrow Iran's democratically elected Prime Minister Mohammad Mossadegh after he nationalized the country's oil industry. The operation installed Shah Mohammad Reza Pahlavi as an authoritarian ruler, whose repressive 26-year reign directly led to the 1979 Islamic Revolution. The US denied involvement for 60 years.",
+  "mainstream_narrative_at_time": "The Eisenhower administration publicly characterized Mossadegh's overthrow as an organic popular uprising against an unstable leader who was steering Iran toward communism. Western media largely accepted this framing. For decades, any suggestion of US or British involvement was dismissed as Iranian nationalist propaganda or Soviet disinformation. The CIA's role was an open secret in Iran but officially denied by the US and UK governments.",
+  "what_happened": "Declassified CIA documents released in 2013 finally confirmed the full scope of US involvement. The operation was originally conceived by the British after Mossadegh nationalized the Anglo-Iranian Oil Company (now BP). The CIA recruited Iranian military officers, paid for pro-Shah street mobs, planted anti-Mossadegh propaganda in Iranian newspapers, and coordinated the military takeover. CIA officer Kermit Roosevelt Jr. directed the operation from within Tehran. After a first coup attempt failed on August 15, 1953, the CIA regrouped and succeeded on August 19. The Shah was reinstalled with expanded powers and ruled until the 1979 revolution. In 2000, Secretary of State Madeleine Albright acknowledged the US role, calling it a 'setback for democratic government.' In 2013, the CIA released a detailed internal history of the coup. President Obama referenced it in his 2009 Cairo speech.",
+  "first_claimed": "1953",
+  "confirmed_date": "2013",
+  "years_to_confirm": 60,
+  "timeline": [
+    {
+      "date": "1951-04-28",
+      "event": "Iranian parliament votes unanimously to nationalize the Anglo-Iranian Oil Company. Prime Minister Mossadegh, democratically elected, implements the nationalization",
+      "type": "origin"
+    },
+    {
+      "date": "1952",
+      "event": "Britain imposes oil embargo on Iran and lobbies the US for joint action. Churchill convinces Eisenhower that Mossadegh could fall to Soviet influence",
+      "type": "development"
+    },
+    {
+      "date": "1953-06",
+      "event": "CIA approves Operation TPAJAX. Kermit Roosevelt Jr. enters Iran covertly to direct the operation. Budget: $1 million (equivalent to ~$11 million today)",
+      "type": "origin"
+    },
+    {
+      "date": "1953-08-15",
+      "event": "First coup attempt fails. Shah flees to Baghdad, then Rome. CIA nearly aborts the operation",
+      "type": "development"
+    },
+    {
+      "date": "1953-08-19",
+      "event": "CIA-organized mobs, paid provocateurs, and military units loyal to the Shah storm government buildings. Mossadegh is overthrown. Shah returns to power with expanded authority",
+      "type": "development"
+    },
+    {
+      "date": "1953-08",
+      "event": "Eisenhower administration publicly presents the coup as a spontaneous popular uprising. Western media reports follow the official narrative",
+      "type": "coverup"
+    },
+    {
+      "date": "1979-02",
+      "event": "Iranian Revolution overthrows the Shah. Revolutionaries explicitly cite the 1953 coup as justification. US Embassy hostage crisis follows",
+      "type": "development"
+    },
+    {
+      "date": "2000-03-17",
+      "event": "Secretary of State Madeleine Albright publicly acknowledges US role: 'The Eisenhower administration believed its actions were justified... but the coup was clearly a setback for Iran's political development'",
+      "type": "confirmation"
+    },
+    {
+      "date": "2013-08-19",
+      "event": "CIA releases declassified internal history of the coup on the 60th anniversary, confirming operational details including payments to mobs and media manipulation",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "CIA Declassified: 'The Battle for Iran' — Internal History of the 1953 Coup (2013)",
+      "url": "https://nsarchive.gwu.edu/briefing-book/iran/2013-08-19/cia-confirms-role-1953-iran-coup",
+      "type": "primary"
+    },
+    {
+      "title": "National Security Archive: The Secret CIA History of the Iran Coup, 1953",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB28/",
+      "type": "primary"
+    },
+    {
+      "title": "Ervand Abrahamian, 'The Coup: 1953, the CIA, and the Roots of Modern U.S.-Iranian Relations' (New Press, 2013)",
+      "url": "https://thenewpress.com/books/coup",
+      "type": "academic"
+    },
+    {
+      "title": "Secretary Albright Remarks on US-Iran Relations (2000)",
+      "url": "https://1997-2001.state.gov/statements/2000/000317.html",
+      "type": "official"
+    }
+  ],
+  "tags": ["Iran", "CIA", "Mossadegh", "Shah", "oil", "coup", "Operation Ajax", "MI6", "Cold War"],
+  "related_media": [
+    {
+      "title": "Coup 53",
+      "url": "https://www.imdb.com/title/tt4809170/",
+      "type": "documentary",
+      "year": 2019,
+      "description": "Investigative documentary uncovering MI6's role in the 1953 Iran coup, featuring a lost interview with the British intelligence officer who planned the operation. Uses archival footage and dramatic reconstructions."
+    },
+    {
+      "title": "All the Shah's Men — Stephen Kinzer",
+      "url": "https://www.wiley.com/en-us/All+the+Shah%27s+Men-p-9780470185490",
+      "type": "book",
+      "year": 2003,
+      "description": "Definitive account of Operation Ajax, drawing on declassified CIA documents and interviews. Traces how the 1953 coup set the stage for the 1979 revolution and decades of US-Iran hostility."
+    }
+  ]
+}

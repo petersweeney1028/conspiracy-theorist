@@ -1,0 +1,124 @@
+{
+  "id": "epstein-network",
+  "title": "Epstein Network — Full Client List Unknown",
+  "slug": "epstein-network",
+  "status": "UNRESOLVED",
+  "confidence": 70,
+  "category": ["Criminal", "Government", "Cover-up"],
+  "summary": "Jeffrey Epstein operated a sex trafficking network involving minors that connected to powerful figures in politics, business, and entertainment. While his crimes are confirmed and he was convicted, the full scope of his network and the identities of all participants remain undisclosed. His death in federal custody was ruled a suicide but remains widely questioned.",
+  "mainstream_narrative_at_time": "For years, allegations about Epstein's network were dismissed or minimized. His 2008 plea deal in Florida — which gave him 13 months in a county jail with work release for trafficking minors — received minimal national media attention. Claims of connections to powerful figures were treated as conspiracy theories until the Miami Herald's investigation forced a reckoning.",
+  "what_happened": "Epstein was arrested again in July 2019 on federal sex trafficking charges. He was found dead in his cell at the Metropolitan Correctional Center on August 10, 2019 — ruled a suicide by hanging, though circumstances remain disputed. Ghislaine Maxwell was convicted in 2021 of sex trafficking. Court documents released in 2024 named numerous associates but many names remain redacted. No other members of the network have been prosecuted for trafficking-related offenses. The question of who else participated and why they have not been charged remains unanswered.",
+  "first_claimed": "2005",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Palm Beach police begin investigating Epstein after a parent reports her 14-year-old daughter was recruited for 'massage'",
+      "type": "origin"
+    },
+    {
+      "date": "2007",
+      "event": "FBI identifies 36 victims. US Attorney Alex Acosta negotiates a secret plea deal giving Epstein extraordinary leniency",
+      "type": "coverup"
+    },
+    {
+      "date": "2008-06",
+      "event": "Epstein pleads guilty to state prostitution charge (not federal trafficking). Receives 13 months in county jail with daily work release",
+      "type": "coverup"
+    },
+    {
+      "date": "2018-11-28",
+      "event": "Miami Herald publishes Julie K. Brown's investigative series 'Perversion of Justice,' exposing the scope of Epstein's operation and the corrupt plea deal",
+      "type": "exposure"
+    },
+    {
+      "date": "2019-07-06",
+      "event": "Epstein arrested at Teterboro Airport on federal sex trafficking charges",
+      "type": "development"
+    },
+    {
+      "date": "2019-08-10",
+      "event": "Epstein found dead in his cell at Metropolitan Correctional Center. Death ruled suicide. Both guards were sleeping; cameras malfunctioned",
+      "type": "development"
+    },
+    {
+      "date": "2020-07-02",
+      "event": "Ghislaine Maxwell arrested on charges of grooming and trafficking minors for Epstein",
+      "type": "development"
+    },
+    {
+      "date": "2021-12-29",
+      "event": "Maxwell convicted on five of six counts including sex trafficking of a minor",
+      "type": "confirmation"
+    },
+    {
+      "date": "2023-06",
+      "event": "DOJ Inspector General report confirms 'serious failures' at MCC New York before Epstein's death, including falsified records and sleeping guards. Two guards charged with conspiracy and filing false records",
+      "type": "development"
+    },
+    {
+      "date": "2024-01",
+      "event": "Court orders release of documents from Giuffre v. Maxwell civil case, naming numerous Epstein associates including prominent politicians, business leaders, and academics. Many names remain redacted",
+      "type": "development"
+    },
+    {
+      "date": "2024-07",
+      "event": "Despite extensive document releases, no additional members of the trafficking network have been criminally charged. Victims' advocates continue to demand a full accounting of Epstein's associates and enablers",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Miami Herald: 'Perversion of Justice' investigative series by Julie K. Brown (2018)",
+      "url": "https://www.miamiherald.com/news/local/article220097825.html",
+      "type": "journalism"
+    },
+    {
+      "title": "United States v. Ghislaine Maxwell — Southern District of New York (2021)",
+      "url": "https://www.justice.gov/usao-sdny/united-states-v-ghislaine-maxwell",
+      "type": "official"
+    },
+    {
+      "title": "Giuffre v. Maxwell — Released Court Documents (2024)",
+      "url": "https://www.documentcloud.org/documents/24249680-giuffre-v-maxwell",
+      "type": "primary"
+    },
+    {
+      "title": "DOJ Office of Inspector General: Investigation into MCC New York Failures (2023)",
+      "url": "https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-response-and-oversight-metropolitan",
+      "type": "official"
+    }
+  ],
+  "tags": ["Epstein", "Maxwell", "sex trafficking", "plea deal", "MCC", "client list"],
+  "related_media": [
+    {
+      "title": "Jeffrey Epstein: Filthy Rich",
+      "url": "https://www.netflix.com/title/80224905",
+      "type": "series",
+      "year": 2020,
+      "description": "Netflix docuseries featuring firsthand accounts from survivors, chronicling how Epstein used his wealth and connections to carry out trafficking for decades while evading accountability."
+    },
+    {
+      "title": "Broken: Seeking Justice — Podcast",
+      "url": "https://open.spotify.com/show/6hqDghaRkmr4T2KVjH5Qru",
+      "type": "podcast",
+      "year": 2020,
+      "description": "Julie K. Brown of the Miami Herald goes beyond her 'Perversion of Justice' series, investigating the institutions and individuals who enabled Epstein's crimes."
+    },
+    {
+      "title": "Ghislaine Maxwell: Epstein's Shadow (Podcast)",
+      "url": "https://podcasts.apple.com/us/podcast/power-ghislaine-maxwell/id1666567660",
+      "type": "podcast",
+      "year": 2023,
+      "description": "Investigation into Maxwell's role as Epstein's recruiter and enabler, examining how she operated within elite social circles to facilitate trafficking."
+    },
+    {
+      "title": "Jeffrey Epstein: Devil in the Darkness",
+      "url": "https://podcasts.apple.com/us/podcast/jeffrey-epstein-devil-in-the-darkness/id1478027784",
+      "type": "podcast",
+      "year": 2019,
+      "description": "Podcast investigation produced in the wake of Epstein's arrest and death, covering the full scope of his crimes and the questions surrounding his death in federal custody."
+    }
+  ]
+}

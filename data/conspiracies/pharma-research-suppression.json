@@ -1,0 +1,84 @@
+{
+  "id": "pharma-research-suppression",
+  "title": "Pharmaceutical Industry — Systematic Suppression of Research",
+  "slug": "pharma-research-suppression",
+  "status": "CONFIRMED",
+  "confidence": 95,
+  "category": ["Corporate", "Medical", "Cover-up"],
+  "summary": "Major pharmaceutical companies have systematically hidden, manipulated, and suppressed clinical trial data that showed their drugs were dangerous or ineffective. This is not a single incident but a documented pattern across multiple companies and decades — from Merck hiding Vioxx heart attack data to GlaxoSmithKline concealing evidence that Paxil increased suicidal behavior in adolescents to Pfizer suppressing Bextra safety data.",
+  "mainstream_narrative_at_time": "The pharmaceutical industry presented itself as rigorously regulated and scientifically transparent. Concerns about suppressed research were dismissed as anti-pharma conspiracy thinking or anti-science sentiment. The FDA approval process was held up as a guarantee of drug safety. Doctors who questioned pharmaceutical data were often marginalized, and the concept of 'publication bias' — where negative results are buried — was acknowledged in academic circles but not treated as a systemic crisis.",
+  "what_happened": "Court proceedings and whistleblower revelations have confirmed a pattern of research suppression across the industry. Merck knew Vioxx doubled heart attack risk but concealed the data; the drug caused an estimated 27,785 heart attacks before withdrawal in 2004. Merck paid $4.85 billion in settlements. GlaxoSmithKline pleaded guilty in 2012 to fraud charges for hiding clinical trial data showing Paxil increased suicidal behavior in adolescents and promoting drugs for unapproved uses — $3 billion fine, the largest healthcare fraud settlement at that time. Pfizer paid $2.3 billion in 2009 for fraudulent marketing of Bextra. Studies have found that industry-funded trials are significantly more likely to produce favorable results. A 2010 analysis in the New England Journal of Medicine found that among antidepressant trials registered with the FDA, 94% of published results were positive, compared to only 51% of all trials when unpublished data was included. The Alltrials campaign and mandatory clinical trial registration (ClinicalTrials.gov) were direct responses to these revelations.",
+  "first_claimed": "1990s",
+  "confirmed_date": "2004",
+  "years_to_confirm": 10,
+  "timeline": [
+    {
+      "date": "1999",
+      "event": "Merck's internal study (VIGOR) reveals Vioxx doubles risk of heart attack compared to naproxen. Company publishes manipulated version of results omitting three heart attacks from the data",
+      "type": "coverup"
+    },
+    {
+      "date": "2001",
+      "event": "GlaxoSmithKline's internal Study 329 on Paxil in adolescents shows the drug is no more effective than placebo and increases suicidal behavior. Company publishes a ghostwritten paper claiming positive results",
+      "type": "coverup"
+    },
+    {
+      "date": "2004-09-30",
+      "event": "Merck withdraws Vioxx from the market after an estimated 88,000–140,000 excess heart attacks in the US. Internal emails show company knew of risks years earlier. 'Dodge ball' strategy documented — identify and discredit critical doctors",
+      "type": "exposure"
+    },
+    {
+      "date": "2004-10",
+      "event": "FDA whistleblower David Graham testifies before Congress that the FDA is 'incapable of protecting America' from dangerous drugs and identifies five other drugs on the market with serious safety concerns",
+      "type": "exposure"
+    },
+    {
+      "date": "2007",
+      "event": "FDA Amendments Act mandates registration of clinical trials and reporting of results on ClinicalTrials.gov — a direct response to research suppression scandals",
+      "type": "development"
+    },
+    {
+      "date": "2009-09-02",
+      "event": "Pfizer pays $2.3 billion — largest healthcare fraud settlement at that time — for fraudulent marketing of Bextra and three other drugs",
+      "type": "confirmation"
+    },
+    {
+      "date": "2012-07-02",
+      "event": "GlaxoSmithKline pleads guilty and pays $3 billion for fraud related to Paxil, Wellbutrin, and Avandia. Largest healthcare fraud settlement, surpassing Pfizer's record",
+      "type": "confirmation"
+    },
+    {
+      "date": "2015",
+      "event": "Researchers re-analyze GSK's Study 329 using original data obtained through litigation. Published in BMJ, the reanalysis finds Paxil was neither safe nor effective in adolescents — the opposite of the original publication's claims",
+      "type": "confirmation"
+    },
+    {
+      "date": "2023",
+      "event": "Cochrane review and ongoing analysis show clinical trial registration compliance remains incomplete. Estimated 50% of clinical trials still go unreported",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "United States v. GlaxoSmithKline — DOJ Fraud Settlement (2012)",
+      "url": "https://www.justice.gov/opa/pr/glaxosmithkline-plead-guilty-and-pay-3-billion-resolve-fraud-allegations-and-failure-report",
+      "type": "official"
+    },
+    {
+      "title": "Le Noury et al., 'Restoring Study 329: Efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence,' BMJ (2015)",
+      "url": "https://www.bmj.com/content/351/bmj.h4320",
+      "type": "academic"
+    },
+    {
+      "title": "Turner et al., 'Selective Publication of Antidepressant Trials and Its Influence on Apparent Efficacy,' New England Journal of Medicine (2008)",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMsa065779",
+      "type": "academic"
+    },
+    {
+      "title": "David Graham FDA Testimony: Senate Finance Committee Hearing on Vioxx (2004)",
+      "url": "https://www.finance.senate.gov/hearings/fda-vioxx-and-drug-safety",
+      "type": "official"
+    }
+  ],
+  "tags": ["pharmaceutical", "Vioxx", "Paxil", "Merck", "GSK", "Pfizer", "clinical trials", "publication bias", "FDA"]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "operation-northwoods",
+  "title": "Operation Northwoods — US Military False Flag Plans",
+  "slug": "operation-northwoods",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Government", "Military", "Cold War"],
+  "summary": "In 1962, the Joint Chiefs of Staff proposed a series of false flag operations against American civilian and military targets, to be blamed on Cuba, as a pretext for military intervention. Plans included bombings in US cities, hijacking planes, and sinking boats of Cuban refugees.",
+  "mainstream_narrative_at_time": "The idea that the US military would plan attacks on its own citizens was considered the most extreme form of anti-government paranoia. Suggesting the Pentagon would stage terrorist attacks was dismissed as deranged conspiracy thinking that undermined trust in democratic institutions.",
+  "what_happened": "Declassified in 1997 as part of the JFK Assassination Records Review Board's document release. The original memorandum, signed by Chairman of the Joint Chiefs Lyman Lemnitzer, detailed proposals including staging the shoot-down of a US military drone aircraft over Cuba, orchestrating violent terrorism in US cities, and manufacturing fake evidence of Cuban attacks. President Kennedy rejected the plan and subsequently removed Lemnitzer as Chairman.",
+  "first_claimed": "1962",
+  "confirmed_date": "1997",
+  "years_to_confirm": 35,
+  "timeline": [
+    {
+      "date": "1961-04",
+      "event": "Bay of Pigs invasion fails. Kennedy administration under pressure to deal with Castro",
+      "type": "origin"
+    },
+    {
+      "date": "1962-03-13",
+      "event": "Joint Chiefs Chairman Lyman Lemnitzer presents Operation Northwoods memorandum to Secretary of Defense Robert McNamara",
+      "type": "origin"
+    },
+    {
+      "date": "1962-03",
+      "event": "President Kennedy rejects the Northwoods proposal",
+      "type": "denial"
+    },
+    {
+      "date": "1962-10",
+      "event": "Lemnitzer removed as Chairman of the Joint Chiefs. Reassigned to NATO command in Europe",
+      "type": "development"
+    },
+    {
+      "date": "1992",
+      "event": "JFK Assassination Records Collection Act mandates declassification of related government documents",
+      "type": "development"
+    },
+    {
+      "date": "1997-11",
+      "event": "Northwoods documents declassified by the Assassination Records Review Board and released to National Archives",
+      "type": "exposure"
+    },
+    {
+      "date": "2001-04-30",
+      "event": "James Bamford publishes 'Body of Secrets,' bringing widespread attention to the Northwoods documents",
+      "type": "confirmation"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Northwoods Memorandum — National Security Archive, George Washington University",
+      "url": "https://nsarchive2.gwu.edu/news/20010430/northwoods.pdf",
+      "type": "primary"
+    },
+    {
+      "title": "James Bamford, 'Body of Secrets: Anatomy of the Ultra-Secret National Security Agency' (2001)",
+      "url": "https://www.penguinrandomhouse.com/books/70373/body-of-secrets-by-james-bamford/",
+      "type": "journalism"
+    },
+    {
+      "title": "ABC News: 'U.S. Military Wanted to Provoke War With Cuba' (2001)",
+      "url": "https://abcnews.go.com/US/story?id=92662",
+      "type": "journalism"
+    }
+  ],
+  "tags": ["false flag", "Cuba", "Joint Chiefs", "Kennedy", "declassified", "Cold War"]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "fluoride-safety",
+  "title": "Fluoride in Water — Health Risks Downplayed",
+  "slug": "fluoride-safety",
+  "status": "UNRESOLVED",
+  "confidence": 50,
+  "category": ["Government", "Public Health", "Science"],
+  "summary": "For decades, concerns about health risks from water fluoridation were dismissed as conspiracy theory. In 2024, a federal court ruled that water fluoridation at current US levels poses an 'unreasonable risk' of reduced IQ in children, based on a National Toxicology Program review of the scientific evidence. The EPA was ordered to take regulatory action. The ruling validated concerns that had been marginalized for over 70 years.",
+  "mainstream_narrative_at_time": "Water fluoridation has been promoted since the 1940s as a safe and effective public health measure to prevent tooth decay. The CDC called it one of the 'ten great public health achievements of the 20th century.' Questioning fluoride safety was associated with Cold War paranoia (famously satirized in 'Dr. Strangelove') and fringe conspiracy thinking. Public health authorities consistently maintained that fluoride at recommended levels was safe, and critics were dismissed as anti-science.",
+  "what_happened": "A growing body of peer-reviewed research, particularly studies from the 2010s and 2020s, found associations between fluoride exposure and neurodevelopmental effects in children. The National Toxicology Program conducted a systematic review and concluded in its final report (2024) that fluoride is 'presumed to be a cognitive neurodevelopmental hazard to humans' based on a consistent pattern across 72 studies. In September 2024, US District Judge Edward Chen ruled in TSCA litigation that water fluoridation at 0.7 mg/L (the current US standard) presents an 'unreasonable risk of injury to health' — specifically reduced IQ in children. The EPA was ordered to take regulatory action. The ruling does not mean fluoride is definitively harmful at all levels, but it represents a fundamental shift: the court found that the risk had been inadequately addressed by regulators for decades. Multiple countries and communities have moved to end or reduce water fluoridation.",
+  "first_claimed": "1950s",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "1945",
+      "event": "Grand Rapids, Michigan becomes first city to fluoridate its water supply. Program expands rapidly across the US over the following decades",
+      "type": "origin"
+    },
+    {
+      "date": "1964",
+      "event": "Stanley Kubrick's 'Dr. Strangelove' satirizes fluoride conspiracy theories through General Jack D. Ripper's 'precious bodily fluids' monologue. Anti-fluoride positions become culturally coded as paranoia",
+      "type": "development"
+    },
+    {
+      "date": "2006",
+      "event": "National Research Council report 'Fluoride in Drinking Water' recommends the EPA lower its maximum contaminant level, citing risks of skeletal fluorosis and potential neurotoxicity. EPA takes no action",
+      "type": "exposure"
+    },
+    {
+      "date": "2012",
+      "event": "Harvard meta-analysis by Choi et al. finds 'strong indications that fluoride may adversely affect cognitive development in children' based on 27 studies. Study is dismissed by public health establishment",
+      "type": "exposure"
+    },
+    {
+      "date": "2017",
+      "event": "Bashash et al. publish landmark study in Environmental Health Perspectives finding prenatal fluoride exposure associated with lower IQ in children. Funded by the NIH",
+      "type": "development"
+    },
+    {
+      "date": "2020",
+      "event": "Fluoride Action Network files TSCA petition against the EPA, presenting scientific evidence of neurotoxic risk. Case goes to federal trial",
+      "type": "development"
+    },
+    {
+      "date": "2024-08",
+      "event": "National Toxicology Program releases final systematic review: fluoride is 'presumed to be a cognitive neurodevelopmental hazard to humans' based on 72 studies",
+      "type": "exposure"
+    },
+    {
+      "date": "2024-09-24",
+      "event": "US District Judge Edward Chen rules water fluoridation at current US levels poses 'unreasonable risk' of reduced IQ in children. Orders EPA to take regulatory action under TSCA",
+      "type": "confirmation"
+    },
+    {
+      "date": "2025",
+      "event": "Multiple US communities vote to end water fluoridation following the court ruling. Federal regulatory response remains pending",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "National Toxicology Program: Systematic Review of Fluoride Exposure and Neurodevelopmental and Cognitive Health Effects (2024)",
+      "url": "https://ntp.niehs.nih.gov/publications/monographs/mgraph08",
+      "type": "official"
+    },
+    {
+      "title": "Food & Water Watch v. EPA — US District Court Northern District of California, Case No. 17-cv-02162 (2024)",
+      "url": "https://fluoridealert.org/content/tsca-trial/",
+      "type": "official"
+    },
+    {
+      "title": "National Research Council: 'Fluoride in Drinking Water: A Scientific Review of EPA's Standards' (2006)",
+      "url": "https://nap.nationalacademies.org/catalog/11571/fluoride-in-drinking-water-a-scientific-review-of-epas-standards",
+      "type": "academic"
+    },
+    {
+      "title": "Bashash et al., 'Prenatal Fluoride Exposure and Cognitive Outcomes in Children,' Environmental Health Perspectives (2017)",
+      "url": "https://ehp.niehs.nih.gov/doi/10.1289/EHP655",
+      "type": "academic"
+    }
+  ],
+  "tags": ["fluoride", "water fluoridation", "neurotoxicity", "IQ", "EPA", "NTP", "public health"]
+}

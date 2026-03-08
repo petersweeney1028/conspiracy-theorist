@@ -1,0 +1,107 @@
+{
+  "id": "opioid-crisis",
+  "title": "Big Pharma Opioid Crisis — Sackler Family Cover-Up",
+  "slug": "opioid-crisis",
+  "status": "CONFIRMED",
+  "confidence": 100,
+  "category": ["Corporate", "Medical", "Cover-up"],
+  "summary": "Purdue Pharma, owned by the Sackler family, systematically lied about the addictive properties of OxyContin while aggressively marketing it to doctors, fueling an opioid epidemic that has killed over 500,000 Americans. Internal documents showed the company knew the drug was widely abused years before acknowledging it publicly.",
+  "mainstream_narrative_at_time": "Purdue Pharma marketed OxyContin as having a low risk of addiction due to its time-release formula. Doctors who raised concerns about rising addiction rates were told they were undertreating pain. The medical establishment, influenced by Purdue-funded research and aggressive sales tactics, embraced the narrative that opioid addiction fears were overblown. Critics who pointed to corporate malfeasance were dismissed as anti-pharmaceutical zealots.",
+  "what_happened": "Court filings and leaked internal documents revealed that Purdue Pharma knew OxyContin was being widely abused as early as 1996 — the year of its launch. The company trained sales representatives to tell doctors the risk of addiction was 'less than one percent,' a claim with no scientific basis. In 2007, Purdue pled guilty to federal charges of misbranding OxyContin and paid $635 million in fines. In 2019, Purdue filed for bankruptcy amid thousands of lawsuits. The Sackler family transferred billions in company profits to personal accounts before the bankruptcy. In 2022, the Sacklers agreed to pay up to $6 billion in settlements while receiving personal immunity from civil lawsuits — a provision that was struck down by the Supreme Court in 2024 before a revised deal was reached.",
+  "first_claimed": "2000s",
+  "confirmed_date": "2007",
+  "years_to_confirm": 11,
+  "timeline": [
+    {
+      "date": "1995-12",
+      "event": "FDA approves OxyContin. Purdue's application claims time-release formula reduces abuse potential. FDA reviewer who approved it later goes to work for Purdue",
+      "type": "origin"
+    },
+    {
+      "date": "1996",
+      "event": "Purdue launches aggressive marketing campaign. Internal budget for OxyContin promotion reaches $200 million annually. Sales reps given bonuses for high-prescribing doctors",
+      "type": "development"
+    },
+    {
+      "date": "1999",
+      "event": "Purdue's own research shows OxyContin wears off before 12 hours in many patients, leading to withdrawal symptoms and dose escalation. Company suppresses findings and continues marketing 12-hour dosing",
+      "type": "coverup"
+    },
+    {
+      "date": "2001",
+      "event": "OxyContin sales reach $1 billion. Reports of addiction and fatal overdoses surge in Appalachia and rural communities. Purdue blames 'drug abusers' rather than the product",
+      "type": "coverup"
+    },
+    {
+      "date": "2003",
+      "event": "DEA investigation finds Purdue knew about widespread diversion and abuse. Company lobbies against tighter regulations",
+      "type": "exposure"
+    },
+    {
+      "date": "2007-05-10",
+      "event": "Purdue Pharma and three executives plead guilty to federal charges of misbranding OxyContin. Company pays $635 million in fines. No executive serves prison time",
+      "type": "confirmation"
+    },
+    {
+      "date": "2017-10",
+      "event": "New Yorker publishes Patrick Radden Keefe's investigation into the Sackler family's direct role in OxyContin marketing strategy",
+      "type": "exposure"
+    },
+    {
+      "date": "2019-09",
+      "event": "Purdue Pharma files for bankruptcy facing over 2,600 lawsuits. Sackler family has transferred over $10 billion from the company",
+      "type": "development"
+    },
+    {
+      "date": "2024",
+      "event": "Supreme Court rejects initial Sackler settlement over liability shield. Revised deal reached for up to $6.5 billion. Over 500,000 Americans have died from opioid overdoses since 1999",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "United States v. Purdue Frederick Company — Plea Agreement (2007)",
+      "url": "https://www.justice.gov/archive/usao/vaw/press_releases/purdue_frederick_10may2007.html",
+      "type": "official"
+    },
+    {
+      "title": "Patrick Radden Keefe, 'Empire of Pain: The Secret History of the Sackler Dynasty' (Doubleday, 2021)",
+      "url": "https://www.penguinrandomhouse.com/books/612814/empire-of-pain-by-patrick-radden-keefe/",
+      "type": "journalism"
+    },
+    {
+      "title": "Massachusetts Attorney General: Complaint Against Purdue Pharma (2019) — Unredacted",
+      "url": "https://www.mass.gov/doc/january-31-2019-submission-by-the-commonwealth/download",
+      "type": "official"
+    },
+    {
+      "title": "Los Angeles Times: 'OxyContin goes from miracle drug to national epidemic' (2016)",
+      "url": "https://www.latimes.com/projects/oxycontin-part1/",
+      "type": "journalism"
+    }
+  ],
+  "tags": ["Purdue Pharma", "Sackler", "OxyContin", "opioid epidemic", "FDA", "corporate fraud"],
+  "related_media": [
+    {
+      "title": "Dopesick (Hulu Series)",
+      "url": "https://www.imdb.com/title/tt9174558/",
+      "type": "series",
+      "year": 2021,
+      "description": "Dramatization of the opioid crisis based on Beth Macy's book, following the Sackler family's role, the FDA's failures, and the devastation in Appalachian communities. Starring Michael Keaton."
+    },
+    {
+      "title": "The Crime of the Century (HBO)",
+      "url": "https://www.imdb.com/title/tt14528646/",
+      "type": "documentary",
+      "year": 2021,
+      "description": "Alex Gibney's two-part HBO documentary investigating how Big Pharma created and fueled the opioid epidemic through manipulation of regulators, doctors, and patients."
+    },
+    {
+      "title": "Empire of Pain — Patrick Radden Keefe",
+      "url": "https://www.penguinrandomhouse.com/books/612814/empire-of-pain-by-patrick-radden-keefe/",
+      "type": "book",
+      "year": 2021,
+      "description": "Definitive account of the Sackler dynasty, tracing how the family built a pharmaceutical empire on deception and how OxyContin destroyed hundreds of thousands of lives."
+    }
+  ]
+}

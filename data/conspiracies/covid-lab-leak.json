@@ -1,0 +1,84 @@
+{
+  "id": "covid-lab-leak",
+  "title": "COVID-19 Lab Leak Hypothesis",
+  "slug": "covid-lab-leak",
+  "status": "UNRESOLVED",
+  "confidence": 50,
+  "category": ["Government", "Medical", "Geopolitics"],
+  "summary": "The hypothesis that SARS-CoV-2 originated from a laboratory incident at the Wuhan Institute of Virology rather than natural zoonotic transmission. Initially dismissed as a conspiracy theory, it has since been assessed as 'most likely' by the FBI and Department of Energy, while other intelligence agencies remain divided.",
+  "mainstream_narrative_at_time": "In 2020-2021, the lab leak hypothesis was aggressively suppressed in mainstream media and on social platforms. Facebook flagged posts about it as misinformation. Scientists who raised the possibility faced professional backlash. A letter in The Lancet organized by EcoHealth Alliance's Peter Daszak — who had a direct conflict of interest due to his organization's funding of research at the Wuhan lab — called the hypothesis a 'conspiracy theory' and was treated as scientific consensus.",
+  "what_happened": "By 2023, the hypothesis had been rehabilitated as a legitimate scientific question. The FBI assessed with 'moderate confidence' that the pandemic was 'most likely' the result of a lab incident. The Department of Energy reached a similar conclusion with 'low confidence.' Four other intelligence agencies assessed natural origin as more likely, also with low confidence. The WHO's investigation was widely criticized as compromised. China has blocked independent investigation. No definitive evidence has confirmed either origin theory. Congressional investigations continue.",
+  "first_claimed": "2020",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "2019-12",
+      "event": "First known cases of COVID-19 emerge in Wuhan, China — the same city as the Wuhan Institute of Virology, which conducts gain-of-function research on coronaviruses",
+      "type": "origin"
+    },
+    {
+      "date": "2020-02-19",
+      "event": "The Lancet publishes letter signed by 27 scientists condemning the lab leak hypothesis as a 'conspiracy theory.' Organizer Peter Daszak's conflict of interest is not disclosed",
+      "type": "denial"
+    },
+    {
+      "date": "2020-04",
+      "event": "State Department cables from 2018 surface showing US diplomats had warned about safety concerns at the Wuhan Institute of Virology",
+      "type": "exposure"
+    },
+    {
+      "date": "2021-01",
+      "event": "WHO team visits Wuhan for investigation. Team members later say China withheld data. WHO Director-General Tedros says lab leak theory requires further investigation",
+      "type": "development"
+    },
+    {
+      "date": "2021-05-14",
+      "event": "Group of 18 prominent scientists publish letter in Science calling for serious investigation of both origin hypotheses",
+      "type": "development"
+    },
+    {
+      "date": "2021-05",
+      "event": "Facebook reverses policy and stops removing posts discussing the lab leak hypothesis",
+      "type": "development"
+    },
+    {
+      "date": "2023-02-26",
+      "event": "Wall Street Journal reports Department of Energy concludes with 'low confidence' that a lab leak most likely caused the pandemic",
+      "type": "development"
+    },
+    {
+      "date": "2023-02-28",
+      "event": "FBI Director Christopher Wray confirms FBI assesses with 'moderate confidence' that pandemic was result of a lab incident",
+      "type": "development"
+    },
+    {
+      "date": "2024",
+      "event": "House Select Subcommittee on the Coronavirus Pandemic continues investigation. Definitive evidence remains elusive",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "Office of the Director of National Intelligence: Declassified Assessment on COVID-19 Origins (2023)",
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origin-of-COVID-19-20230626.pdf",
+      "type": "official"
+    },
+    {
+      "title": "Wall Street Journal: 'Lab Leak Most Likely Caused Covid Pandemic, Energy Department Says' (2023)",
+      "url": "https://www.wsj.com/articles/covid-origin-china-lab-leak-807b7b0a",
+      "type": "journalism"
+    },
+    {
+      "title": "Science: 'Investigate the origins of COVID-19' — Letter from 18 scientists (2021)",
+      "url": "https://www.science.org/doi/10.1126/science.abj0016",
+      "type": "academic"
+    },
+    {
+      "title": "House Select Subcommittee on the Coronavirus Pandemic — Final Report (2024)",
+      "url": "https://oversight.house.gov/landing/covid-origins/",
+      "type": "official"
+    }
+  ],
+  "tags": ["COVID-19", "Wuhan", "lab leak", "gain-of-function", "pandemic origins", "censorship"]
+}

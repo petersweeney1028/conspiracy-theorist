@@ -1,0 +1,107 @@
+{
+  "id": "uap-phenomena",
+  "title": "UAP/UFO — Anomalous Craft Phenomena",
+  "slug": "uap-phenomena",
+  "status": "UNRESOLVED",
+  "confidence": 45,
+  "category": ["Government", "Military", "Science"],
+  "summary": "For decades, the US government denied taking UFO sightings seriously. It is now confirmed that the Pentagon operated secret programs to study unidentified aerial phenomena (UAP), that military personnel have recorded encounters with objects exhibiting flight characteristics beyond known technology, and that a systematic effort was made to stigmatize reporting. The origin and nature of these phenomena remain unknown.",
+  "mainstream_narrative_at_time": "UFO sightings were systematically dismissed as misidentifications, hoaxes, or symptoms of mental instability. The Air Force's Project Blue Book (1952-1969) was used to publicly debunk reports while, critics allege, genuine cases were handled through classified channels. Reporting a UAP encounter was career-ending for military pilots. The subject was treated as fringe pseudoscience unworthy of serious investigation.",
+  "what_happened": "In 2017, the New York Times revealed that the Pentagon had operated a secret UAP investigation program (AATIP) from 2007-2012. The Navy confirmed that leaked infrared videos showing unidentified objects were authentic. In 2020, the Pentagon established the UAP Task Force. In 2023, intelligence community whistleblower David Grusch testified before Congress that the US government possesses retrieved non-human craft and biological materials — claims that remain unverified. The 2024 NDAA included provisions for UAP disclosure. NASA established an independent study team. The phenomena are confirmed; their explanation is not.",
+  "first_claimed": "1947",
+  "confirmed_date": null,
+  "years_to_confirm": null,
+  "timeline": [
+    {
+      "date": "1947-06-24",
+      "event": "Kenneth Arnold reports nine unusual objects near Mount Rainier. Media coins the term 'flying saucers'",
+      "type": "origin"
+    },
+    {
+      "date": "1952",
+      "event": "Air Force launches Project Blue Book to investigate UFO reports. Later criticized as a debunking operation",
+      "type": "development"
+    },
+    {
+      "date": "1969",
+      "event": "Project Blue Book terminated after the Condon Report concludes UFO study is scientifically unproductive. Classified programs allegedly continue",
+      "type": "coverup"
+    },
+    {
+      "date": "2004-11-14",
+      "event": "USS Nimitz carrier group encounters 'Tic Tac' UAP off the coast of San Diego. Multiple sensor systems and eyewitnesses confirm anomalous object",
+      "type": "development"
+    },
+    {
+      "date": "2007",
+      "event": "Pentagon establishes Advanced Aerospace Threat Identification Program (AATIP) with $22 million in black budget funding, led by Luis Elizondo",
+      "type": "development"
+    },
+    {
+      "date": "2017-12-16",
+      "event": "New York Times publishes 'Glowing Auras and Black Money,' revealing AATIP's existence and releasing Navy UAP videos",
+      "type": "exposure"
+    },
+    {
+      "date": "2020-04-27",
+      "event": "Pentagon officially releases three Navy UAP videos, confirming their authenticity",
+      "type": "confirmation"
+    },
+    {
+      "date": "2021-06-25",
+      "event": "ODNI releases preliminary UAP assessment: 144 incidents examined, only 1 explained. Report acknowledges potential national security threat",
+      "type": "development"
+    },
+    {
+      "date": "2023-07-26",
+      "event": "David Grusch, former intelligence official, testifies before Congress that US government possesses retrieved non-human craft. Claims remain unverified",
+      "type": "development"
+    }
+  ],
+  "key_sources": [
+    {
+      "title": "New York Times: 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' (2017)",
+      "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+      "type": "journalism"
+    },
+    {
+      "title": "ODNI: Preliminary Assessment on Unidentified Aerial Phenomena (2021)",
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "type": "official"
+    },
+    {
+      "title": "House Oversight Committee: UAP Hearing Testimony (2023)",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "type": "official"
+    },
+    {
+      "title": "NASA UAP Independent Study Team Report (2023)",
+      "url": "https://science.nasa.gov/uap/",
+      "type": "official"
+    }
+  ],
+  "tags": ["UFO", "UAP", "Pentagon", "Navy", "AATIP", "Grusch", "Tic Tac", "disclosure"],
+  "related_media": [
+    {
+      "title": "UFOs: Investigating the Unknown (Netflix)",
+      "url": "https://www.netflix.com/title/81596515",
+      "type": "series",
+      "year": 2023,
+      "description": "J.J. Abrams-produced Netflix docuseries tracing the history of UAP encounters from the 1940s to the present Pentagon revelations, featuring military witnesses and intelligence officials."
+    },
+    {
+      "title": "The Phenomenon",
+      "url": "https://www.imdb.com/title/tt13095604/",
+      "type": "documentary",
+      "year": 2020,
+      "description": "James Fox's documentary featuring interviews with former heads of state, senior military officials, and declassified footage. Considered one of the most credible UAP documentaries produced."
+    },
+    {
+      "title": "Need to Know — UAP Podcast",
+      "url": "https://open.spotify.com/show/6NOJ5IFojRhibLBPqnj4T5",
+      "type": "podcast",
+      "year": 2023,
+      "description": "Ross Coulthart and Bryce Zabel host a weekly deep dive into UAP disclosure, congressional hearings, and whistleblower testimony."
+    }
+  ]
+}
